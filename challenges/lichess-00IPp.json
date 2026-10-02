@@ -1,0 +1,26 @@
+{
+  "id": "lichess-00IPp",
+  "title": " Checkmate · 00IPp",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1531.",
+  "fen": "4Q3/6pk/p3p2p/5P2/1p1P4/4q2P/2B1n2B/7K b - - 0 35",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00IPp",
+    "url": "https://lichess.org/training/00IPp",
+    "gameUrl": "https://lichess.org/JKNcTJw1#69",
+    "rating": 1531,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e3f3"
+  ]
+}

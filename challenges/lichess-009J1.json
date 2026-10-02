@@ -1,0 +1,26 @@
+{
+  "id": "lichess-009J1",
+  "title": " Checkmate · 009J1",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 1203.",
+  "fen": "rn3k1r/pp2bp1p/2p1pNp1/6B1/5P2/7P/PPP4P/2K1RR2 w - - 4 18",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "009J1",
+    "url": "https://lichess.org/training/009J1",
+    "gameUrl": "https://lichess.org/lPhlt9XF/black#34",
+    "rating": 1203,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g5h6"
+  ]
+}

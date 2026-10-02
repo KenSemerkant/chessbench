@@ -1,0 +1,26 @@
+{
+  "id": "lichess-003IX",
+  "title": " Checkmate · 003IX",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1703.",
+  "fen": "8/3pk3/R7/1R2PK1p/2PPn1r1/8/8/8 b - - 0 43",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "003IX",
+    "url": "https://lichess.org/training/003IX",
+    "gameUrl": "https://lichess.org/576Btq56#85",
+    "rating": 1703,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e4g3"
+  ]
+}

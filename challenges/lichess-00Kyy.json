@@ -1,0 +1,31 @@
+{
+  "id": "lichess-00Kyy",
+  "title": "Exposed King · 00Kyy",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 1219.",
+  "fen": "Q7/8/8/5k2/8/5pr1/5r2/R6K b - - 0 50",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "medium",
+  "tags": [
+    "endgame",
+    "exposedKing",
+    "long",
+    "master",
+    "mate",
+    "mateIn3",
+    "queenRookEndgame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00Kyy",
+    "url": "https://lichess.org/training/00Kyy",
+    "gameUrl": "https://lichess.org/VrBw9rnh#99",
+    "rating": 1219,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g3h3",
+    "f2g2",
+    "h3h1"
+  ]
+}

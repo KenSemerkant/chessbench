@@ -1,0 +1,27 @@
+{
+  "id": "lichess-00JsQ",
+  "title": " Checkmate · 00JsQ",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1990.",
+  "fen": "r1b1k1nr/pp2p2p/2q1Npp1/2n1p3/2B5/2N3B1/PPPR1PPP/2K4R w kq - 0 15",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "hard",
+  "tags": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00JsQ",
+    "url": "https://lichess.org/training/00JsQ",
+    "gameUrl": "https://lichess.org/5HP9frAd/black#28",
+    "rating": 1990,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d2d8",
+    "d8f8"
+  ]
+}

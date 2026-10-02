@@ -1,0 +1,28 @@
+{
+  "id": "lichess-010WS",
+  "title": "Pin · 010WS",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 1985.",
+  "fen": "6k1/p2Q4/3p2p1/8/3qPn2/5P2/PP3RPP/6K1 b - - 3 37",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "hard",
+  "tags": [
+    "endgame",
+    "long",
+    "mate",
+    "mateIn3",
+    "pin"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "010WS",
+    "url": "https://lichess.org/training/010WS",
+    "gameUrl": "https://lichess.org/WNpzh8ee#73",
+    "rating": 1985,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f4e2",
+    "d4d1"
+  ]
+}

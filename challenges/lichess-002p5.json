@@ -1,0 +1,28 @@
+{
+  "id": "lichess-002p5",
+  "title": "Kingside Attack · 002p5",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 908.",
+  "fen": "r1bqr1k1/pp1nbpp1/2p5/3n2P1/2BP4/P7/1PQNNPP1/R3K2R w KQ - 1 14",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "002p5",
+    "url": "https://lichess.org/training/002p5",
+    "gameUrl": "https://lichess.org/meSoQkhU/black#26",
+    "rating": 908,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c2h7",
+    "h7h8"
+  ]
+}

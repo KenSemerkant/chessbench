@@ -1,0 +1,27 @@
+{
+  "id": "lichess-09nQI",
+  "title": "Pin · 09nQI",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1989.",
+  "fen": "6k1/8/4p2p/2b1P3/1p6/5qNp/PR3Q1B/6K1 b - - 4 36",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "pin"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "09nQI",
+    "url": "https://lichess.org/training/09nQI",
+    "gameUrl": "https://lichess.org/DsZLWBKA#71",
+    "rating": 1989,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f3g2"
+  ]
+}

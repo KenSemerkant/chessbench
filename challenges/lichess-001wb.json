@@ -1,0 +1,26 @@
+{
+  "id": "lichess-001wb",
+  "title": " Checkmate · 001wb",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1117.",
+  "fen": "r3k2r/pb1p1ppp/1b4q1/1Q2P3/8/2NP1PP1/PP4P1/R1B2R1K b kq - 0 17",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "001wb",
+    "url": "https://lichess.org/training/001wb",
+    "gameUrl": "https://lichess.org/hNzYRMWP#33",
+    "rating": 1117,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g6h5"
+  ]
+}

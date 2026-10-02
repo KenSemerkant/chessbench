@@ -1,0 +1,30 @@
+{
+  "id": "lichess-00F6y",
+  "title": "Queenside Attack · 00F6y",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 938.",
+  "fen": "2k3r1/pppb1prp/1q6/8/Q7/2P1R1P1/P4P1P/4R1K1 w - - 4 24",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "easy",
+  "tags": [
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "queensideAttack",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00F6y",
+    "url": "https://lichess.org/training/00F6y",
+    "gameUrl": "https://lichess.org/Hii0fRVd/black#46",
+    "rating": 938,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e3e8",
+    "e1e8",
+    "a4e8"
+  ]
+}

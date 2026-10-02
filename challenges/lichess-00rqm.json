@@ -1,0 +1,30 @@
+{
+  "id": "lichess-00rqm",
+  "title": "Corner Mate · 00rqm",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1934.",
+  "fen": "2r2r1k/7n/p6q/1p1nNb2/7P/3P2Q1/PPP2P2/1K4RR w - - 1 31",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "hard",
+  "tags": [
+    "cornerMate",
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "sacrifice",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00rqm",
+    "url": "https://lichess.org/training/00rqm",
+    "gameUrl": "https://lichess.org/v9qNACJc/black#60",
+    "rating": 1934,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g3g8",
+    "e5f7"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "lichess-004JD",
+  "title": "Corner Mate · 004JD",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1292.",
+  "fen": "3r4/R7/2p5/p1P2p2/1p4k1/nP2K3/P3NP2/8 b - - 4 41",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cornerMate",
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "004JD",
+    "url": "https://lichess.org/training/004JD",
+    "gameUrl": "https://lichess.org/6vTeEc3x#81",
+    "rating": 1292,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "a3c2"
+  ]
+}

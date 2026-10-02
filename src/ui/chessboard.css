@@ -1,0 +1,171 @@
+/*
+ * Chessground base layout (adapted from lichess-org/chessground-examples)
+ * plus a fully offline board theme and unicode piece set (no image assets).
+ */
+
+.cg-wrap {
+  width: min(88vw, 560px);
+  height: min(88vw, 560px);
+  position: relative;
+  display: block;
+}
+
+cg-helper {
+  position: absolute;
+  width: 12.5%;
+  padding-bottom: 12.5%;
+  display: table;
+  bottom: 0;
+}
+
+cg-container {
+  position: absolute;
+  width: 800%;
+  height: 800%;
+  display: block;
+  bottom: 0;
+}
+
+cg-board {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 0;
+  background-size: cover;
+  cursor: pointer;
+  /* 8x8 checkerboard, fully offline */
+  background-color: #f0d9b5;
+  background-image: repeating-conic-gradient(#b58863 0% 25%, #f0d9b5 0% 50%);
+  background-size: 25% 25%;
+  border-radius: 4px;
+}
+
+.cg-wrap svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+cg-board square {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 12.5%;
+  height: 12.5%;
+  pointer-events: none;
+}
+
+cg-board square.move-dest {
+  background: radial-gradient(rgba(20, 85, 30, 0.5) 22%, #208530 0, rgba(0, 0, 0, 0.3) 0, rgba(0, 0, 0, 0) 0);
+  pointer-events: auto;
+}
+
+cg-board square.oc.move-dest {
+  background: radial-gradient(transparent 0%, transparent 80%, rgba(20, 85, 0, 0.3) 80%);
+}
+
+cg-board square.last-move {
+  will-change: transform;
+  background-color: rgba(155, 199, 0, 0.41);
+}
+
+cg-board square.selected {
+  background-color: rgba(20, 85, 30, 0.5);
+}
+
+cg-board square.check {
+  background: radial-gradient(
+    ellipse at center,
+    rgba(255, 0, 0, 1) 0%,
+    rgba(231, 0, 0, 1) 25%,
+    rgba(169, 0, 0, 0) 89%,
+    rgba(158, 0, 0, 0) 100%
+  );
+}
+
+.cg-wrap piece {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 12.5%;
+  height: 12.5%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 2;
+  will-change: transform;
+  pointer-events: none;
+}
+
+/* Local SVG piece set (fully offline — no fonts, no network). */
+.cg-wrap piece.white.pawn { background-image: url("./assets/pieces/white-pawn.svg"); }
+.cg-wrap piece.white.knight { background-image: url("./assets/pieces/white-knight.svg"); }
+.cg-wrap piece.white.bishop { background-image: url("./assets/pieces/white-bishop.svg"); }
+.cg-wrap piece.white.rook { background-image: url("./assets/pieces/white-rook.svg"); }
+.cg-wrap piece.white.queen { background-image: url("./assets/pieces/white-queen.svg"); }
+.cg-wrap piece.white.king { background-image: url("./assets/pieces/white-king.svg"); }
+.cg-wrap piece.black.pawn { background-image: url("./assets/pieces/black-pawn.svg"); }
+.cg-wrap piece.black.knight { background-image: url("./assets/pieces/black-knight.svg"); }
+.cg-wrap piece.black.bishop { background-image: url("./assets/pieces/black-bishop.svg"); }
+.cg-wrap piece.black.rook { background-image: url("./assets/pieces/black-rook.svg"); }
+.cg-wrap piece.black.queen { background-image: url("./assets/pieces/black-queen.svg"); }
+.cg-wrap piece.black.king { background-image: url("./assets/pieces/black-king.svg"); }
+
+cg-board piece.dragging {
+  cursor: move;
+  z-index: 10;
+}
+
+.cg-wrap piece.ghost {
+  opacity: 0.3;
+}
+
+.cg-wrap coords {
+  position: absolute;
+  display: flex;
+  pointer-events: none;
+  opacity: 0.8;
+  font-size: 9px;
+}
+
+.cg-wrap coords.ranks {
+  right: -15px;
+  top: 0;
+  flex-flow: column-reverse;
+  height: 100%;
+  width: 12px;
+}
+
+.cg-wrap coords.ranks.black {
+  flex-flow: column;
+}
+
+.cg-wrap coords.files {
+  bottom: -16px;
+  left: 0;
+  flex-flow: row;
+  width: 100%;
+  height: 16px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.cg-wrap coords.files.black {
+  flex-flow: row-reverse;
+}
+
+.cg-wrap coords coord {
+  flex: 1 1 auto;
+}
+
+.cg-wrap coords.ranks coord {
+  transform: translateY(39%);
+}

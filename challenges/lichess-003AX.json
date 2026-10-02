@@ -1,0 +1,27 @@
+{
+  "id": "lichess-003AX",
+  "title": "Kingside Attack · 003AX",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 983.",
+  "fen": "2r2rk1/5ppp/bq2p3/p2pP1N1/Pb1p2P1/1P2P2P/2QN4/2R1K2R w K - 0 19",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "003AX",
+    "url": "https://lichess.org/training/003AX",
+    "gameUrl": "https://lichess.org/kRgejRSt/black#36",
+    "rating": 983,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c2h7"
+  ]
+}

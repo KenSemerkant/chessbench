@@ -1,0 +1,30 @@
+{
+  "id": "lichess-00O9a",
+  "title": "Back Rank Mate · 00O9a",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 985.",
+  "fen": "1k3r2/q5r1/2Qp3p/3Bp3/2N1P1p1/P7/1PP2PPP/R5K1 b - - 13 35",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "easy",
+  "tags": [
+    "backRankMate",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00O9a",
+    "url": "https://lichess.org/training/00O9a",
+    "gameUrl": "https://lichess.org/t6wbqTty#69",
+    "rating": 985,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "a7f2",
+    "f2f1",
+    "f8f1"
+  ]
+}

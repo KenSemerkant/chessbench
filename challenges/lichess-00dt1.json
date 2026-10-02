@@ -1,0 +1,32 @@
+{
+  "id": "lichess-00dt1",
+  "title": "Arabian Mate · 00dt1",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 2234.",
+  "fen": "Q7/8/3B4/2p5/1rkn4/K7/8/8 b - - 2 54",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "hard",
+  "tags": [
+    "arabianMate",
+    "endgame",
+    "exposedKing",
+    "fork",
+    "long",
+    "master",
+    "mate",
+    "mateIn3"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00dt1",
+    "url": "https://lichess.org/training/00dt1",
+    "gameUrl": "https://lichess.org/AQkAsoMX#107",
+    "rating": 2234,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d4b5",
+    "b5c3",
+    "b4b1"
+  ]
+}

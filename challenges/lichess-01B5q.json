@@ -1,0 +1,33 @@
+{
+  "id": "lichess-01B5q",
+  "title": "Attraction · 01B5q",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 2117.",
+  "fen": "r4rk1/1pp2p1p/p4Qp1/3n3P/P2Nq3/8/1B4R1/5B1K w - - 0 37",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "hard",
+  "tags": [
+    "attraction",
+    "discoveredCheck",
+    "doubleCheck",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "pin",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "01B5q",
+    "url": "https://lichess.org/training/01B5q",
+    "gameUrl": "https://lichess.org/seEUcuvw/black#72",
+    "rating": 2117,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f6g7",
+    "d4f5",
+    "f5h6"
+  ]
+}

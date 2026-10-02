@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ChessBench — Benchmark Pipeline</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --color-paper:   #f7f4ec;   /* warm paper */
+      --color-surface: #fffdf8;   /* site surface */
+      --color-ink:     #101318;   /* near-black ink */
+      --color-muted:   #4b5260;   /* secondary text / arrows */
+      --color-soft:    #8e8a81;   /* sublabels, input stroke */
+      --color-accent:  #a14a2a;   /* warm brick — focal only */
+      --font-sans:     'Inter', system-ui, sans-serif;
+      --font-mono:     'JetBrains Mono', ui-monospace, monospace;
+    }
+
+    body {
+      font-family: var(--font-sans);
+      background: var(--color-paper);
+      color: var(--color-ink);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 3rem 2rem;
+    }
+
+    .frame { max-width: 1000px; width: 100%; }
+
+    .eyebrow {
+      font-family: var(--font-mono);
+      font-size: 0.66rem;
+      font-weight: 500;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--color-muted);
+      margin-bottom: 0.5rem;
+    }
+
+    h1 {
+      font-family: var(--font-sans);
+      font-size: clamp(1.5rem, 2.4vw + 0.75rem, 1.9rem);
+      font-weight: 900;
+      letter-spacing: -0.02em;
+      line-height: 1.15;
+      color: var(--color-ink);
+      margin-bottom: 1.5rem;
+    }
+
+    svg { width: 100%; min-width: 760px; display: block; }
+  </style>
+</head>
+<body>
+  <div class="frame">
+    <p class="eyebrow">Architecture · ChessBench</p>
+    <h1>The Benchmark Pipeline</h1>
+
+    <svg viewBox="0 0 840 472" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="bench-pipeline-title bench-pipeline-desc">
+      <title id="bench-pipeline-title">ChessBench Benchmark Pipeline</title>
+      <desc id="bench-pipeline-desc">One FEN mate challenge fans out to four agents — Jev, Tev, Nimble, and Laya — whose responses feed a single evaluation that scores and ranks each agent.</desc>
+      <defs>
+        <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#4b5260"/></marker>
+        <marker id="arrow-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#a14a2a"/></marker>
+        <marker id="arrow-link" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0, 8 3, 0 6" fill="#a14a2a"/></marker>
+      </defs>
+
+      <rect width="100%" height="100%" fill="#f7f4ec"/>
+
+      <!-- Connectors (drawn before nodes) -->
+      <!-- Fan-out: Challenge → agents -->
+      <path d="M192,208 H208 Q216,208 216,200 V124 Q216,116 224,116 H248" fill="none" stroke="#4b5260" stroke-width="1" marker-end="url(#arrow)"/>
+      <path d="M192,224 H220 Q228,224 228,216 V204 Q228,196 236,196 H248" fill="none" stroke="#4b5260" stroke-width="1" marker-end="url(#arrow)"/>
+      <path d="M192,240 H232 Q240,240 240,248 V268 Q240,276 248,276" fill="none" stroke="#4b5260" stroke-width="1" marker-end="url(#arrow)"/>
+      <path d="M192,256 H196 Q204,256 204,264 V348 Q204,356 212,356 H248" fill="none" stroke="#4b5260" stroke-width="1" marker-end="url(#arrow)"/>
+      <!-- Fan-in: agents → Response -->
+      <path d="M392,116 H420 Q428,116 428,124 V200 Q428,208 436,208 H448" fill="none" stroke="#4b5260" stroke-width="1" marker-end="url(#arrow)"/>
+      <path d="M392,196 H408 Q416,196 416,204 V216 Q416,224 424,224 H448" fill="none" stroke="#4b5260" stroke-width="1" marker-end="url(#arrow)"/>
+      <path d="M392,276 H396 Q404,276 404,268 V248 Q404,240 412,240 H448" fill="none" stroke="#4b5260" stroke-width="1" marker-end="url(#arrow)"/>
+      <path d="M392,356 H432 Q440,356 440,348 V264 Q440,256 448,256" fill="none" stroke="#4b5260" stroke-width="1" marker-end="url(#arrow)"/>
+      <!-- Response → Evaluation -->
+      <line x1="592" y1="236" x2="648" y2="236" stroke="#4b5260" stroke-width="1" marker-end="url(#arrow)"/>
+
+      <!-- Challenge (input) -->
+      <rect x="48" y="200" width="144" height="72" rx="6" fill="#f7f4ec"/>
+      <rect x="48" y="200" width="144" height="72" rx="6" fill="rgba(75,82,96,0.10)" stroke="#8e8a81" stroke-width="1"/>
+      <rect x="56" y="206" width="36" height="12" rx="2" fill="transparent" stroke="rgba(142,138,129,0.40)" stroke-width="0.8"/>
+      <text x="74" y="215" fill="rgba(142,138,129,0.9)" font-size="7" font-family="'JetBrains Mono', monospace" text-anchor="middle" letter-spacing="0.08em">INPUT</text>
+      <text x="120" y="238" fill="#101318" font-size="12" font-weight="600" font-family="'Inter', sans-serif" text-anchor="middle">Challenge</text>
+      <text x="120" y="254" fill="#4b5260" font-size="9" font-family="'JetBrains Mono', monospace" text-anchor="middle">fen · mate-in-n</text>
+
+      <!-- Jev -->
+      <rect x="248" y="88" width="144" height="56" rx="6" fill="#f7f4ec"/>
+      <rect x="248" y="88" width="144" height="56" rx="6" fill="#fffdf8" stroke="#101318" stroke-width="1"/>
+      <rect x="256" y="94" width="36" height="12" rx="2" fill="transparent" stroke="rgba(16,19,24,0.40)" stroke-width="0.8"/>
+      <text x="274" y="103" fill="rgba(16,19,24,0.8)" font-size="7" font-family="'JetBrains Mono', monospace" text-anchor="middle" letter-spacing="0.08em">AGENT</text>
+      <text x="320" y="118" fill="#101318" font-size="12" font-weight="600" font-family="'Inter', sans-serif" text-anchor="middle">Jev</text>
+      <text x="320" y="132" fill="#4b5260" font-size="9" font-family="'JetBrains Mono', monospace" text-anchor="middle">hosted · keyed</text>
+
+      <!-- Tev -->
+      <rect x="248" y="168" width="144" height="56" rx="6" fill="#f7f4ec"/>
+      <rect x="248" y="168" width="144" height="56" rx="6" fill="#fffdf8" stroke="#101318" stroke-width="1"/>
+      <rect x="256" y="174" width="36" height="12" rx="2" fill="transparent" stroke="rgba(16,19,24,0.40)" stroke-width="0.8"/>
+      <text x="274" y="183" fill="rgba(16,19,24,0.8)" font-size="7" font-family="'JetBrains Mono', monospace" text-anchor="middle" letter-spacing="0.08em">AGENT</text>
+      <text x="320" y="198" fill="#101318" font-size="12" font-weight="600" font-family="'Inter', sans-serif" text-anchor="middle">Tev</text>
+      <text x="320" y="212" fill="#4b5260" font-size="9" font-family="'JetBrains Mono', monospace" text-anchor="middle">local · keyless</text>
+
+      <!-- Nimble -->
+      <rect x="248" y="248" width="144" height="56" rx="6" fill="#f7f4ec"/>
+      <rect x="248" y="248" width="144" height="56" rx="6" fill="#fffdf8" stroke="#101318" stroke-width="1"/>
+      <rect x="256" y="254" width="36" height="12" rx="2" fill="transparent" stroke="rgba(16,19,24,0.40)" stroke-width="0.8"/>
+      <text x="274" y="263" fill="rgba(16,19,24,0.8)" font-size="7" font-family="'JetBrains Mono', monospace" text-anchor="middle" letter-spacing="0.08em">AGENT</text>
+      <text x="320" y="278" fill="#101318" font-size="12" font-weight="600" font-family="'Inter', sans-serif" text-anchor="middle">Nimble</text>
+      <text x="320" y="292" fill="#4b5260" font-size="9" font-family="'JetBrains Mono', monospace" text-anchor="middle">local · keyless</text>
+
+      <!-- Laya -->
+      <rect x="248" y="328" width="144" height="56" rx="6" fill="#f7f4ec"/>
+      <rect x="248" y="328" width="144" height="56" rx="6" fill="#fffdf8" stroke="#101318" stroke-width="1"/>
+      <rect x="256" y="334" width="36" height="12" rx="2" fill="transparent" stroke="rgba(16,19,24,0.40)" stroke-width="0.8"/>
+      <text x="274" y="343" fill="rgba(16,19,24,0.8)" font-size="7" font-family="'JetBrains Mono', monospace" text-anchor="middle" letter-spacing="0.08em">AGENT</text>
+      <text x="320" y="358" fill="#101318" font-size="12" font-weight="600" font-family="'Inter', sans-serif" text-anchor="middle">Laya</text>
+      <text x="320" y="372" fill="#4b5260" font-size="9" font-family="'JetBrains Mono', monospace" text-anchor="middle">local · keyless</text>
+
+      <!-- Response (state) -->
+      <rect x="448" y="200" width="144" height="72" rx="6" fill="#f7f4ec"/>
+      <rect x="448" y="200" width="144" height="72" rx="6" fill="rgba(16,19,24,0.05)" stroke="#4b5260" stroke-width="1"/>
+      <rect x="456" y="206" width="36" height="12" rx="2" fill="transparent" stroke="rgba(75,82,96,0.40)" stroke-width="0.8"/>
+      <text x="474" y="215" fill="rgba(75,82,96,0.9)" font-size="7" font-family="'JetBrains Mono', monospace" text-anchor="middle" letter-spacing="0.08em">STATE</text>
+      <text x="520" y="238" fill="#101318" font-size="12" font-weight="600" font-family="'Inter', sans-serif" text-anchor="middle">Response</text>
+      <text x="520" y="254" fill="#4b5260" font-size="9" font-family="'JetBrains Mono', monospace" text-anchor="middle">plies · run record</text>
+
+      <!-- Evaluation (focal) -->
+      <rect x="648" y="200" width="144" height="72" rx="6" fill="#f7f4ec"/>
+      <rect x="648" y="200" width="144" height="72" rx="6" fill="rgba(161,74,42,0.10)" stroke="#a14a2a" stroke-width="1.2"/>
+      <rect x="656" y="206" width="32" height="12" rx="2" fill="transparent" stroke="rgba(161,74,42,0.40)" stroke-width="0.8"/>
+      <text x="672" y="215" fill="rgba(161,74,42,0.9)" font-size="7" font-family="'JetBrains Mono', monospace" text-anchor="middle" letter-spacing="0.08em">EVAL</text>
+      <text x="720" y="238" fill="#101318" font-size="12" font-weight="600" font-family="'Inter', sans-serif" text-anchor="middle">Evaluation</text>
+      <text x="720" y="254" fill="#4b5260" font-size="9" font-family="'JetBrains Mono', monospace" text-anchor="middle">solved / total · rank</text>
+
+      <!-- Legend strip -->
+      <line x1="48" y1="424" x2="792" y2="424" stroke="rgba(16,19,24,0.12)" stroke-width="0.8"/>
+      <text x="48" y="444" fill="#4b5260" font-size="8" font-family="'JetBrains Mono', monospace" letter-spacing="0.14em">LEGEND</text>
+      <rect x="120" y="436" width="12" height="12" rx="2" fill="rgba(75,82,96,0.10)" stroke="#8e8a81" stroke-width="0.8"/>
+      <text x="140" y="444" fill="#4b5260" font-size="8" font-family="'JetBrains Mono', monospace">INPUT</text>
+      <rect x="220" y="436" width="12" height="12" rx="2" fill="#fffdf8" stroke="#101318" stroke-width="0.8"/>
+      <text x="240" y="444" fill="#4b5260" font-size="8" font-family="'JetBrains Mono', monospace">AGENT</text>
+      <rect x="340" y="436" width="12" height="12" rx="2" fill="rgba(16,19,24,0.05)" stroke="#4b5260" stroke-width="0.8"/>
+      <text x="360" y="444" fill="#4b5260" font-size="8" font-family="'JetBrains Mono', monospace">STATE</text>
+      <rect x="460" y="436" width="12" height="12" rx="2" fill="rgba(161,74,42,0.10)" stroke="#a14a2a" stroke-width="0.8"/>
+      <text x="480" y="444" fill="#4b5260" font-size="8" font-family="'JetBrains Mono', monospace">FOCAL</text>
+    </svg>
+  </div>
+</body>
+</html>

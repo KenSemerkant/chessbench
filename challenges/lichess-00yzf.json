@@ -1,0 +1,28 @@
+{
+  "id": "lichess-00yzf",
+  "title": "Vukovic Mate · 00yzf",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1917.",
+  "fen": "3rk3/3N2R1/4P1pr/3pP3/2p5/8/PP4p1/2K5 w - - 0 30",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "hard",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn2",
+    "short",
+    "vukovicMate"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00yzf",
+    "url": "https://lichess.org/training/00yzf",
+    "gameUrl": "https://lichess.org/OIVHVypq/black#58",
+    "rating": 1917,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d7f6",
+    "g7f7"
+  ]
+}

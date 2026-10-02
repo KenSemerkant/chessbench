@@ -1,0 +1,28 @@
+{
+  "id": "lichess-00Kbj",
+  "title": "Rook Endgame · 00Kbj",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 1479.",
+  "fen": "8/8/6p1/PR3p2/1P3k1P/8/r5P1/7K b - - 0 39",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "medium",
+  "tags": [
+    "endgame",
+    "long",
+    "mate",
+    "mateIn3",
+    "rookEndgame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00Kbj",
+    "url": "https://lichess.org/training/00Kbj",
+    "gameUrl": "https://lichess.org/PW8a1JvE#77",
+    "rating": 1479,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f4g3",
+    "a2a1"
+  ]
+}

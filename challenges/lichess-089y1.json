@@ -1,0 +1,26 @@
+{
+  "id": "lichess-089y1",
+  "title": " Checkmate · 089y1",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1860.",
+  "fen": "3r2k1/1p3ppp/3Np3/P1B1P3/1Q2qP2/5n2/5PRP/5K2 b - - 1 29",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "089y1",
+    "url": "https://lichess.org/training/089y1",
+    "gameUrl": "https://lichess.org/haC6xdaq#57",
+    "rating": 1860,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e4d3"
+  ]
+}

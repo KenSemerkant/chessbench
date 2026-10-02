@@ -1,0 +1,29 @@
+{
+  "id": "lichess-00J1t",
+  "title": "Exposed King · 00J1t",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 1642.",
+  "fen": "r1qr3k/pp3pb1/1np1p3/8/3P3P/2N2PR1/PP1Q2P1/2KR4 w - - 0 23",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "medium",
+  "tags": [
+    "exposedKing",
+    "kingsideAttack",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00J1t",
+    "url": "https://lichess.org/training/00J1t",
+    "gameUrl": "https://lichess.org/77hjhVfM/black#44",
+    "rating": 1642,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d2g5",
+    "g5g7"
+  ]
+}

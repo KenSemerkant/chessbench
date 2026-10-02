@@ -1,0 +1,26 @@
+{
+  "id": "lichess-004WZ",
+  "title": " Checkmate · 004WZ",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 866.",
+  "fen": "r6k/1b3pp1/p1q1pn1p/2p5/P1B5/1PN4Q/2P1RP1P/R5K1 b - - 0 26",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "004WZ",
+    "url": "https://lichess.org/training/004WZ",
+    "gameUrl": "https://lichess.org/BQIdXPOM#51",
+    "rating": 866,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c6h1"
+  ]
+}

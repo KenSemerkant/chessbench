@@ -1,0 +1,30 @@
+{
+  "id": "lichess-00Ycz",
+  "title": "Back Rank Mate · 00Ycz",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 1081.",
+  "fen": "5k2/5r1p/pp2Q3/8/8/1P6/P1q2PPP/4R1K1 b - - 0 32",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "easy",
+  "tags": [
+    "backRankMate",
+    "endgame",
+    "long",
+    "mate",
+    "mateIn3",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00Ycz",
+    "url": "https://lichess.org/training/00Ycz",
+    "gameUrl": "https://lichess.org/9BdeH5eE#63",
+    "rating": 1081,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c2f2",
+    "f2f1",
+    "f7f1"
+  ]
+}

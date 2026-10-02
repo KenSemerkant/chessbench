@@ -1,0 +1,28 @@
+{
+  "id": "lichess-00QHM",
+  "title": " Checkmate · 00QHM",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 904.",
+  "fen": "6k1/pp3rpp/4Nb2/4p3/1r6/6PK/PP5P/2R5 w - - 0 29",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "long",
+    "mate",
+    "mateIn3"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00QHM",
+    "url": "https://lichess.org/training/00QHM",
+    "gameUrl": "https://lichess.org/VyUHT6ng/black#56",
+    "rating": 904,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c1c8",
+    "c8d8",
+    "d8f8"
+  ]
+}

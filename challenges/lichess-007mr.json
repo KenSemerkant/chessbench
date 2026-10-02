@@ -1,0 +1,28 @@
+{
+  "id": "lichess-007mr",
+  "title": "Back Rank Mate · 007mr",
+  "description": "Black to move and force mate in 2. Lichess puzzle rating 604.",
+  "fen": "5k2/p2r3p/1p4pP/3r1q2/4R3/2P5/PP3PQ1/K3R3 b - - 0 33",
+  "sideToMove": "black",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "backRankMate",
+    "endgame",
+    "mate",
+    "mateIn2",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "007mr",
+    "url": "https://lichess.org/training/007mr",
+    "gameUrl": "https://lichess.org/J12UnEgz#65",
+    "rating": 604,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d5d1",
+    "d7d1"
+  ]
+}

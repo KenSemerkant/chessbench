@@ -1,0 +1,30 @@
+{
+  "id": "lichess-00QW1",
+  "title": "Exposed King · 00QW1",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 975.",
+  "fen": "8/3r1ppp/4p3/k3P3/pR2R2P/2P5/3r1PP1/2K5 b - - 5 31",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "exposedKing",
+    "long",
+    "mate",
+    "mateIn3",
+    "rookEndgame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00QW1",
+    "url": "https://lichess.org/training/00QW1",
+    "gameUrl": "https://lichess.org/I3LnvYRW#61",
+    "rating": 975,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d2d1",
+    "d7d2",
+    "d1a1"
+  ]
+}

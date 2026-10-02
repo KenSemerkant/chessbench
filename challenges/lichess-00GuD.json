@@ -1,0 +1,32 @@
+{
+  "id": "lichess-00GuD",
+  "title": "Advanced Pawn · 00GuD",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 1152.",
+  "fen": "1n5k/6p1/p2q1rPp/1ppB4/8/3P4/PPP1rPQ1/2K4R w - - 0 26",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "easy",
+  "tags": [
+    "advancedPawn",
+    "kingsideAttack",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "promotion",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00GuD",
+    "url": "https://lichess.org/training/00GuD",
+    "gameUrl": "https://lichess.org/zcHeWRaO/black#50",
+    "rating": 1152,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h1h6",
+    "g6g7",
+    "g7g8q"
+  ]
+}

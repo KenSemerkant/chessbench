@@ -1,0 +1,26 @@
+{
+  "id": "lichess-09CMV",
+  "title": " Checkmate · 09CMV",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1944.",
+  "fen": "k1r2Q2/6q1/K1pQ1R2/p6p/P1P5/1P6/8/8 b - - 0 59",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "09CMV",
+    "url": "https://lichess.org/training/09CMV",
+    "gameUrl": "https://lichess.org/WsAk18Ux#117",
+    "rating": 1944,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g7a7"
+  ]
+}

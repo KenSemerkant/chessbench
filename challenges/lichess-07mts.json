@@ -1,0 +1,26 @@
+{
+  "id": "lichess-07mts",
+  "title": " Checkmate · 07mts",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1835.",
+  "fen": "6k1/pbp2pp1/3p3p/2p5/2P3nB/1P5P/PQP3r1/4RK2 b - - 1 24",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "07mts",
+    "url": "https://lichess.org/training/07mts",
+    "gameUrl": "https://lichess.org/n8QKeH14#47",
+    "rating": 1835,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g4h2"
+  ]
+}

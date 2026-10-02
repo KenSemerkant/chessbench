@@ -1,0 +1,30 @@
+{
+  "id": "lichess-00gNl",
+  "title": "Exposed King · 00gNl",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 914.",
+  "fen": "6k1/5R2/pp4p1/2p4p/7P/1P6/P2rr1PK/5R2 w - - 1 39",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "exposedKing",
+    "long",
+    "mate",
+    "mateIn3",
+    "rookEndgame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00gNl",
+    "url": "https://lichess.org/training/00gNl",
+    "gameUrl": "https://lichess.org/JhG6365X/black#76",
+    "rating": 914,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f7f8",
+    "f1f7",
+    "f8h8"
+  ]
+}

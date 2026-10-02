@@ -1,0 +1,33 @@
+{
+  "id": "lichess-011GG",
+  "title": "Discovered Attack · 011GG",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 2112.",
+  "fen": "1R1Q4/5ppk/7p/4Pb2/1P6/2b5/3r3P/2KR4 b - - 4 36",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "hard",
+  "tags": [
+    "discoveredAttack",
+    "discoveredCheck",
+    "doubleCheck",
+    "endgame",
+    "exposedKing",
+    "long",
+    "mate",
+    "mateIn3",
+    "morphysMate"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "011GG",
+    "url": "https://lichess.org/training/011GG",
+    "gameUrl": "https://lichess.org/VzSTV2sV#71",
+    "rating": 2112,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d2c2",
+    "c2b2",
+    "b2d2"
+  ]
+}

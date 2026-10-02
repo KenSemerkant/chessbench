@@ -1,0 +1,27 @@
+{
+  "id": "lichess-00zqB",
+  "title": "Pin · 00zqB",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 1809.",
+  "fen": "3r1rk1/pp6/5pb1/5q2/2p5/P2P4/1PP4Q/2K3RR w - - 0 28",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "pin"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00zqB",
+    "url": "https://lichess.org/training/00zqB",
+    "gameUrl": "https://lichess.org/EURKTOGv/black#54",
+    "rating": 1809,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h2h7"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "lichess-05V7Z",
+  "title": "Pin · 05V7Z",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1819.",
+  "fen": "Bn2r1k1/p4ppp/3p4/2p3bP/3p2P1/1P1Q4/1PP1NN1q/R3K3 b Q - 1 21",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "master",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "pin"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "05V7Z",
+    "url": "https://lichess.org/training/05V7Z",
+    "gameUrl": "https://lichess.org/IGxZcoAP#41",
+    "rating": 1819,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h2g1"
+  ]
+}

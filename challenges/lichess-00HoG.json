@@ -1,0 +1,26 @@
+{
+  "id": "lichess-00HoG",
+  "title": " Checkmate · 00HoG",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 1487.",
+  "fen": "5r1k/8/2b2rQp/1p1p2p1/1q4P1/8/8/1B3R1K w - - 0 37",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00HoG",
+    "url": "https://lichess.org/training/00HoG",
+    "gameUrl": "https://lichess.org/zwJu9mKP/black#72",
+    "rating": 1487,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g6h7"
+  ]
+}

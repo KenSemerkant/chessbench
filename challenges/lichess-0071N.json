@@ -1,0 +1,28 @@
+{
+  "id": "lichess-0071N",
+  "title": "Pillsburys Mate · 0071N",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 555.",
+  "fen": "6k1/p4pp1/1p5p/4b3/4B3/4P1P1/P1R2PKP/1q1r4 w - - 0 31",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn2",
+    "pillsburysMate",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "0071N",
+    "url": "https://lichess.org/training/0071N",
+    "gameUrl": "https://lichess.org/HRlw71ON/black#60",
+    "rating": 555,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c2c8",
+    "c8d8"
+  ]
+}

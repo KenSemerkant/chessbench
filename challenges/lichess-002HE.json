@@ -1,0 +1,27 @@
+{
+  "id": "lichess-002HE",
+  "title": " Checkmate · 002HE",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1116.",
+  "fen": "1qr2rk1/1p1p1ppp/pB2p1n1/7n/2P1P3/1Q2NP1P/PP2BKPb/3R1R2 b - - 2 20",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "master",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "002HE",
+    "url": "https://lichess.org/training/002HE",
+    "gameUrl": "https://lichess.org/U21EXYdv#39",
+    "rating": 1116,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "b8g3"
+  ]
+}

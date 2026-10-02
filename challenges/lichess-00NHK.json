@@ -1,0 +1,31 @@
+{
+  "id": "lichess-00NHK",
+  "title": "Attraction · 00NHK",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 1796.",
+  "fen": "r1b2rk1/1p2b1p1/pq2p1P1/3pn3/1P1P4/P1N1P3/6P1/R2QK2R w KQ - 0 18",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "medium",
+  "tags": [
+    "attraction",
+    "fork",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00NHK",
+    "url": "https://lichess.org/training/00NHK",
+    "gameUrl": "https://lichess.org/YWzSZGeb/black#34",
+    "rating": 1796,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h1h8",
+    "d1h5",
+    "h5h7"
+  ]
+}

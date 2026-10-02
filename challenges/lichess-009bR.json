@@ -1,0 +1,27 @@
+{
+  "id": "lichess-009bR",
+  "title": " Checkmate · 009bR",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1024.",
+  "fen": "4r2k/3q3r/1p4pQ/p1pP4/2P4P/1N4p1/PP3RK1/8 w - - 2 38",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn2",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "009bR",
+    "url": "https://lichess.org/training/009bR",
+    "gameUrl": "https://lichess.org/rvHGlZar/black#74",
+    "rating": 1024,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f2f8",
+    "h6f8"
+  ]
+}

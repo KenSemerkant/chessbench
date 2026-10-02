@@ -1,0 +1,28 @@
+{
+  "id": "lichess-005Bm",
+  "title": "Pin · 005Bm",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1291.",
+  "fen": "4rk2/p4q2/1p3Q1b/8/1p5N/2P1p3/P3P3/2K5 w - - 1 44",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "medium",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn2",
+    "pin",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "005Bm",
+    "url": "https://lichess.org/training/005Bm",
+    "gameUrl": "https://lichess.org/KKslCMev/black#86",
+    "rating": 1291,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h4g6",
+    "f6h8"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "lichess-00Pr6",
+  "title": "Kingside Attack · 00Pr6",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 1474.",
+  "fen": "r1b2rk1/p4ppp/2p5/6q1/6P1/3p1Q1P/PPP5/1K2RR2 w - - 0 18",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "medium",
+  "tags": [
+    "kingsideAttack",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00Pr6",
+    "url": "https://lichess.org/training/00Pr6",
+    "gameUrl": "https://lichess.org/CtrEbVZV/black#34",
+    "rating": 1474,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f3f7",
+    "e1e8",
+    "e8f8"
+  ]
+}

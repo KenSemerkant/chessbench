@@ -1,0 +1,28 @@
+{
+  "id": "lichess-00465",
+  "title": "Back Rank Mate · 00465",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 571.",
+  "fen": "5r1k/pp4pp/2p5/6q1/5R2/2P5/P1P2PPP/3rR1K1 w - - 0 28",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "backRankMate",
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "queenRookEndgame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00465",
+    "url": "https://lichess.org/training/00465",
+    "gameUrl": "https://lichess.org/h21VtqGG/black#54",
+    "rating": 571,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f4f8"
+  ]
+}

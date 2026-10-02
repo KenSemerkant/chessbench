@@ -1,0 +1,27 @@
+{
+  "id": "lichess-001cr",
+  "title": "Bishop Endgame · 001cr",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 1570.",
+  "fen": "8/3B2pp/p5k1/6P1/1ppp1K2/8/1P6/8 w - - 0 39",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bishopEndgame",
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "001cr",
+    "url": "https://lichess.org/training/001cr",
+    "gameUrl": "https://lichess.org/7FFNwibw/black#76",
+    "rating": 1570,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d7e8"
+  ]
+}

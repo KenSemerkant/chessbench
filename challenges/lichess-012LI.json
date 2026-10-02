@@ -1,0 +1,29 @@
+{
+  "id": "lichess-012LI",
+  "title": "Sacrifice · 012LI",
+  "description": "Black to move and force mate in 2. Lichess puzzle rating 2272.",
+  "fen": "6k1/p4p1p/4bp2/1p2p3/3r4/KP1nQPN1/P7/5B2 b - - 1 33",
+  "sideToMove": "black",
+  "mateInN": 2,
+  "difficulty": "hard",
+  "tags": [
+    "endgame",
+    "master",
+    "mate",
+    "mateIn2",
+    "sacrifice",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "012LI",
+    "url": "https://lichess.org/training/012LI",
+    "gameUrl": "https://lichess.org/ITMhkGpD#65",
+    "rating": 2272,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d4a4",
+    "b5b4"
+  ]
+}

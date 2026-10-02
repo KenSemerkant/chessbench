@@ -1,0 +1,27 @@
+{
+  "id": "lichess-002Q2",
+  "title": "Corner Mate · 002Q2",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 944.",
+  "fen": "7k/p4R1p/3p3B/2pN1n2/2PbB1b1/3P2P1/P3r3/5R1K b - - 0 28",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cornerMate",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "002Q2",
+    "url": "https://lichess.org/training/002Q2",
+    "gameUrl": "https://lichess.org/yqAJ1jMv#55",
+    "rating": 944,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f5g3"
+  ]
+}

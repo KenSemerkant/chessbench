@@ -1,0 +1,28 @@
+{
+  "id": "lichess-000Zo",
+  "title": "Opera Mate · 000Zo",
+  "description": "Black to move and force mate in 2. Lichess puzzle rating 1363.",
+  "fen": "4r3/1k6/pp3P2/1b5p/3R1p2/P1R2P2/1P4PP/6K1 b - - 0 35",
+  "sideToMove": "black",
+  "mateInN": 2,
+  "difficulty": "medium",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn2",
+    "operaMate",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "000Zo",
+    "url": "https://lichess.org/training/000Zo",
+    "gameUrl": "https://lichess.org/n8Ff742v#69",
+    "rating": 1363,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e8e1",
+    "e1f1"
+  ]
+}

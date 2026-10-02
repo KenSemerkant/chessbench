@@ -1,0 +1,26 @@
+{
+  "id": "lichess-005Ep",
+  "title": " Checkmate · 005Ep",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 723.",
+  "fen": "5kr1/ppR3p1/3R3p/1n6/1r6/8/1P3PPP/2K5 w - - 5 32",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "005Ep",
+    "url": "https://lichess.org/training/005Ep",
+    "gameUrl": "https://lichess.org/ttFEoJfQ/black#62",
+    "rating": 723,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d6d8"
+  ]
+}

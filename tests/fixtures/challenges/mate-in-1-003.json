@@ -1,0 +1,10 @@
+{
+  "id": "mate-in-1-003",
+  "title": "Back-Rank Rook",
+  "description": "White to move and deliver checkmate in 1 along the back rank.",
+  "fen": "6k1/5ppp/8/8/8/8/5PPP/R5K1 w - - 0 1",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": ["back-rank", "rook", "checkmate-pattern"]
+}

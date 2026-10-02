@@ -1,0 +1,26 @@
+{
+  "id": "lichess-01a5v",
+  "title": " Checkmate · 01a5v",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1885.",
+  "fen": "4r2k/R7/1p6/5pPp/3P3K/4P3/PP2QPq1/2R5 b - - 0 32",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "01a5v",
+    "url": "https://lichess.org/training/01a5v",
+    "gameUrl": "https://lichess.org/NLOK8h0L#63",
+    "rating": 1885,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g2h2"
+  ]
+}

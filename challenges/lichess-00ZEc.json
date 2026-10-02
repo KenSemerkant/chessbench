@@ -1,0 +1,29 @@
+{
+  "id": "lichess-00ZEc",
+  "title": "Discovered Check · 00ZEc",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1803.",
+  "fen": "1r3b2/5p1k/3P1qRP/r1n1p3/ppB5/P2Q1P2/1PP5/1K6 w - - 1 36",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "hard",
+  "tags": [
+    "discoveredCheck",
+    "doubleCheck",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00ZEc",
+    "url": "https://lichess.org/training/00ZEc",
+    "gameUrl": "https://lichess.org/7IfLNNVB/black#70",
+    "rating": 1803,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g6g7",
+    "d3h7"
+  ]
+}

@@ -1,0 +1,1891 @@
+{
+  "dataset": "https://huggingface.co/datasets/Lichess/chess-puzzles",
+  "upstream": "https://database.lichess.org/#puzzles",
+  "license": "CC0-1.0",
+  "importedAt": "2026-10-01T14:29:50.622Z",
+  "sourceSha256": "b3be9d98d2f1d2ab7f526a7a0c43bfcb057c2ff53d39bd145ff60f3764a22953",
+  "scanned": 100,
+  "verificationSkipped": 0,
+  "rows": [
+    {
+      "PuzzleId": "000Zo",
+      "GameId": "n8Ff742v#69",
+      "FEN": "4r3/1k6/pp3r2/1b2P2p/3R1p2/P1R2P2/1P4PP/6K1 w - - 0 35",
+      "Moves": "e5f6 e8e1 g1f2 e1f1",
+      "Rating": 1363,
+      "RatingDeviation": 76,
+      "Popularity": 86,
+      "NbPlays": 655,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "operaMate",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "000hf",
+      "GameId": "71ygsFeE/black#38",
+      "FEN": "r1bqk2r/pp1nbNp1/2p1p2p/8/2BP4/1PN3P1/P3QP1P/3R1RK1 b kq - 0 19",
+      "Moves": "e8f7 e2e6 f7f8 e6f7",
+      "Rating": 1473,
+      "RatingDeviation": 77,
+      "Popularity": 92,
+      "NbPlays": 772,
+      "Themes": [
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "OpeningTags": [
+        "Horwitz_Defense",
+        "Horwitz_Defense_Other_variations"
+      ]
+    },
+    {
+      "PuzzleId": "000rZ",
+      "GameId": "seIMDWkD#25",
+      "FEN": "2kr1b1r/p1p2pp1/2pqb3/7p/3N2n1/2NPB3/PPP2PPP/R2Q1RK1 w - - 2 13",
+      "Moves": "d4e6 d6h2",
+      "Rating": 616,
+      "RatingDeviation": 90,
+      "Popularity": 100,
+      "NbPlays": 628,
+      "Themes": [
+        "kingsideAttack",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "opening"
+      ],
+      "OpeningTags": [
+        "Scandinavian_Defense",
+        "Scandinavian_Defense_Modern_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "001KR",
+      "GameId": "TaT1Zl7z/black#56",
+      "FEN": "6Qk/p1p3pp/4N3/1p6/2q1r1n1/2B5/PP4PP/3R1R1K b - - 0 28",
+      "Moves": "h8g8 f1f8",
+      "Rating": 563,
+      "RatingDeviation": 79,
+      "Popularity": 100,
+      "NbPlays": 183,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "001cr",
+      "GameId": "7FFNwibw/black#76",
+      "FEN": "8/3B2pp/p5k1/2p3P1/1p1p1K2/8/1P6/8 b - - 0 38",
+      "Moves": "c5c4 d7e8",
+      "Rating": 1570,
+      "RatingDeviation": 81,
+      "Popularity": 94,
+      "NbPlays": 3349,
+      "Themes": [
+        "bishopEndgame",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "001om",
+      "GameId": "VWOIWtIh#51",
+      "FEN": "5r1k/pp4pp/5p2/1BbQp1r1/6K1/7P/1PP3P1/3R3R w - - 2 26",
+      "Moves": "g4h4 c5f2 g2g3 f2g3",
+      "Rating": 1018,
+      "RatingDeviation": 80,
+      "Popularity": 89,
+      "NbPlays": 226,
+      "Themes": [
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "morphysMate",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "001pC",
+      "GameId": "d04UP3XD#35",
+      "FEN": "r4rk1/pp3ppp/3b4/2p1pPB1/7N/2PP3n/PP4PP/R2Q1RqK w - - 5 18",
+      "Moves": "f1g1 h3f2",
+      "Rating": 848,
+      "RatingDeviation": 76,
+      "Popularity": 91,
+      "NbPlays": 435,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove",
+        "smotheredMate"
+      ],
+      "OpeningTags": [
+        "Sicilian_Defense",
+        "Sicilian_Defense_McDonnell_Attack"
+      ]
+    },
+    {
+      "PuzzleId": "001w5",
+      "GameId": "0e1vxAEn/black#58",
+      "FEN": "1rb2rk1/q5P1/4p2p/3p3p/3P1P2/2P5/2QK3P/3R2R1 b - - 0 29",
+      "Moves": "f8f7 c2h7 g8h7 g7g8q",
+      "Rating": 1034,
+      "RatingDeviation": 83,
+      "Popularity": 85,
+      "NbPlays": 220,
+      "Themes": [
+        "advancedPawn",
+        "attraction",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "promotion",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "001wR",
+      "GameId": "ruvbd9JW/black#52",
+      "FEN": "6nr/pp3p1p/k1p5/8/1QN5/2P1P3/4KPqP/8 b - - 5 26",
+      "Moves": "b7b5 b4a5 a6b7 c4d6 b7b8 a5d8",
+      "Rating": 1152,
+      "RatingDeviation": 85,
+      "Popularity": 93,
+      "NbPlays": 2632,
+      "Themes": [
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "001wb",
+      "GameId": "hNzYRMWP#33",
+      "FEN": "r3k2r/pb1p1ppp/1b4q1/1Q2P3/8/2NP1Pn1/PP4PP/R1B2R1K w kq - 1 17",
+      "Moves": "h2g3 g6h5",
+      "Rating": 1117,
+      "RatingDeviation": 77,
+      "Popularity": 95,
+      "NbPlays": 286,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": [
+        "Ruy_Lopez",
+        "Ruy_Lopez_Bird_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "002HE",
+      "GameId": "U21EXYdv#39",
+      "FEN": "1qr2rk1/1p1p1ppp/pB2p1n1/7n/2P1P3/1Q2NP1P/PP2B1Pb/3R1RK1 w - - 1 20",
+      "Moves": "g1f2 b8g3",
+      "Rating": 1116,
+      "RatingDeviation": 77,
+      "Popularity": 94,
+      "NbPlays": 509,
+      "Themes": [
+        "master",
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "002Mm",
+      "GameId": "wAkPv4uG/black#32",
+      "FEN": "rn1qr1k1/ppp3pQ/3p1pP1/3Pp3/2P1P3/8/PP3PP1/R1B1K3 b Q - 2 16",
+      "Moves": "g8f8 h7h8 f8e7 h8g7",
+      "Rating": 918,
+      "RatingDeviation": 83,
+      "Popularity": 97,
+      "NbPlays": 244,
+      "Themes": [
+        "deflection",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "OpeningTags": [
+        "Three_Knights_Opening",
+        "Three_Knights_Opening_Other_variations"
+      ]
+    },
+    {
+      "PuzzleId": "002Q2",
+      "GameId": "yqAJ1jMv#55",
+      "FEN": "7k/p4R1p/3p3r/2pN1n2/2PbBBb1/3P2P1/P3r3/5R1K w - - 1 28",
+      "Moves": "f4h6 f5g3",
+      "Rating": 944,
+      "RatingDeviation": 77,
+      "Popularity": 100,
+      "NbPlays": 444,
+      "Themes": [
+        "cornerMate",
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "002p5",
+      "GameId": "meSoQkhU/black#26",
+      "FEN": "r1bqr1k1/pp1nbpp1/2p2n2/6P1/2BP4/P7/1PQNNPP1/R3K2R b KQ - 0 13",
+      "Moves": "f6d5 c2h7 g8f8 h7h8",
+      "Rating": 908,
+      "RatingDeviation": 79,
+      "Popularity": 84,
+      "NbPlays": 182,
+      "Themes": [
+        "kingsideAttack",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "OpeningTags": [
+        "French_Defense",
+        "French_Defense_Exchange_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "002vV",
+      "GameId": "KB7FAntf#115",
+      "FEN": "8/6k1/2R4p/5p1P/5P1K/6P1/8/r7 w - - 2 58",
+      "Moves": "c6b6 a1h1",
+      "Rating": 565,
+      "RatingDeviation": 90,
+      "Popularity": 100,
+      "NbPlays": 609,
+      "Themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "rookEndgame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "003AX",
+      "GameId": "kRgejRSt/black#36",
+      "FEN": "2r2rk1/5ppp/bq2p3/p1ppP1N1/Pb1P2P1/1P2P2P/2QN4/2R1K2R b K - 1 18",
+      "Moves": "c5d4 c2h7",
+      "Rating": 983,
+      "RatingDeviation": 78,
+      "Popularity": 94,
+      "NbPlays": 674,
+      "Themes": [
+        "kingsideAttack",
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": [
+        "French_Defense",
+        "French_Defense_Advance_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "003IX",
+      "GameId": "576Btq56#85",
+      "FEN": "8/3pk3/R7/1R2Pp1p/2PPnKr1/8/8/8 w - - 4 43",
+      "Moves": "f4f5 e4g3",
+      "Rating": 1703,
+      "RatingDeviation": 85,
+      "Popularity": 89,
+      "NbPlays": 2246,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "003Tx",
+      "GameId": "A7j9VEC0#53",
+      "FEN": "2r5/pR5p/5p1k/4p3/4r3/B4nPP/PP3P2/1K2R3 w - - 0 27",
+      "Moves": "e1e4 f3d2 b1a1 c8c1",
+      "Rating": 1511,
+      "RatingDeviation": 88,
+      "Popularity": 83,
+      "NbPlays": 769,
+      "Themes": [
+        "backRankMate",
+        "endgame",
+        "fork",
+        "mate",
+        "mateIn2",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00465",
+      "GameId": "h21VtqGG/black#54",
+      "FEN": "3r1Q1k/pp4pp/2p5/6q1/5R2/2P5/P1P2PPP/3rR1K1 b - - 8 27",
+      "Moves": "d8f8 f4f8",
+      "Rating": 571,
+      "RatingDeviation": 92,
+      "Popularity": 91,
+      "NbPlays": 376,
+      "Themes": [
+        "backRankMate",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenRookEndgame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "004JD",
+      "GameId": "6vTeEc3x#81",
+      "FEN": "3r4/R7/2p5/p1P2p2/1p4k1/nP6/P2KNP2/8 w - - 3 41",
+      "Moves": "d2e3 a3c2",
+      "Rating": 1292,
+      "RatingDeviation": 82,
+      "Popularity": 91,
+      "NbPlays": 2794,
+      "Themes": [
+        "cornerMate",
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "004WZ",
+      "GameId": "BQIdXPOM#51",
+      "FEN": "r6k/1b3pp1/p1q1pn1p/2p5/P1B5/1PN4Q/2P1RP1P/R4Kr1 w - - 2 26",
+      "Moves": "f1g1 c6h1",
+      "Rating": 866,
+      "RatingDeviation": 100,
+      "Popularity": 94,
+      "NbPlays": 138,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "004yJ",
+      "GameId": "8N3Hfj05#31",
+      "FEN": "r4rk1/1bp2ppp/p1q1pn2/2P5/8/3B1N2/P1P1QPPP/R4RK1 w - - 0 16",
+      "Moves": "f3e5 c6g2",
+      "Rating": 658,
+      "RatingDeviation": 80,
+      "Popularity": 83,
+      "NbPlays": 117,
+      "Themes": [
+        "kingsideAttack",
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": [
+        "French_Defense",
+        "French_Defense_Exchange_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "004zI",
+      "GameId": "HE33gdt4/black#54",
+      "FEN": "2q3k1/4br1p/6RQ/1p1n2p1/7P/1P4P1/1B2PP2/6K1 b - - 0 27",
+      "Moves": "h7g6 h6h8",
+      "Rating": 1429,
+      "RatingDeviation": 80,
+      "Popularity": 91,
+      "NbPlays": 400,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "005Bm",
+      "GameId": "KKslCMev/black#86",
+      "FEN": "4rk2/p1q5/1p3Q1b/8/1p5N/2P1p3/P3P3/2K5 b - - 0 43",
+      "Moves": "c7f7 h4g6 f8g8 f6h8",
+      "Rating": 1291,
+      "RatingDeviation": 75,
+      "Popularity": 96,
+      "NbPlays": 6409,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "pin",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "005Ep",
+      "GameId": "ttFEoJfQ/black#62",
+      "FEN": "5kr1/ppR3p1/3R3p/8/1r1n4/8/1P3PPP/2K5 b - - 4 31",
+      "Moves": "d4b5 d6d8",
+      "Rating": 723,
+      "RatingDeviation": 81,
+      "Popularity": 100,
+      "NbPlays": 416,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "005nD",
+      "GameId": "hlgaj6lV/black#46",
+      "FEN": "3rk2r/2qn1pp1/p1Q1R3/3n3p/8/8/PP4PP/5R1K b k - 0 23",
+      "Moves": "f7e6 c6e6 d5e7 e6f7",
+      "Rating": 1105,
+      "RatingDeviation": 75,
+      "Popularity": 96,
+      "NbPlays": 1405,
+      "Themes": [
+        "fork",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "005wJ",
+      "GameId": "2mU9GJhQ#17",
+      "FEN": "r3kb1r/ppqn1ppp/4pn2/1Q2Nb2/3P4/8/PP2PPPP/RNB1KB1R w KQkq - 4 9",
+      "Moves": "e5d7 c7c1",
+      "Rating": 1371,
+      "RatingDeviation": 79,
+      "Popularity": 80,
+      "NbPlays": 1237,
+      "Themes": [
+        "hangingPiece",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "opening"
+      ],
+      "OpeningTags": [
+        "Queens_Pawn_Game",
+        "Queens_Pawn_Game_Zukertort_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "005wy",
+      "GameId": "mBQMheB4#53",
+      "FEN": "1r6/pp2kpp1/2n1p1n1/3p2PQ/5P2/2PqP3/PP1N4/2KR3R w - - 3 27",
+      "Moves": "h5h7 c6b4 c3b4 b8c8 d2c4 c8c4",
+      "Rating": 1938,
+      "RatingDeviation": 75,
+      "Popularity": 94,
+      "NbPlays": 7384,
+      "Themes": [
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "queensideAttack",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "006HV",
+      "GameId": "ibb2c72C#61",
+      "FEN": "1r6/5k2/2p1pNp1/p5Pp/1pQ1P2P/2P4R/KP3P2/3q4 w - - 4 31",
+      "Moves": "c4c6 b4b3 a2a3 d1a1",
+      "Rating": 1159,
+      "RatingDeviation": 87,
+      "Popularity": 93,
+      "NbPlays": 1015,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "006pe",
+      "GameId": "gkSEAS27/black#56",
+      "FEN": "r4r2/2q1NN2/4bQpk/2n4p/pp5P/8/1PP2PP1/2KR3R b - - 0 28",
+      "Moves": "e6f7 e7f5 h6h7 f6g7",
+      "Rating": 1600,
+      "RatingDeviation": 77,
+      "Popularity": 96,
+      "NbPlays": 5383,
+      "Themes": [
+        "master",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "pin",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "0071N",
+      "GameId": "HRlw71ON/black#60",
+      "FEN": "6k1/p4pp1/1p5p/4b3/4B3/4P1P1/PpR2PKP/3r4 b - - 1 30",
+      "Moves": "b2b1q c2c8 d1d8 c8d8",
+      "Rating": 555,
+      "RatingDeviation": 93,
+      "Popularity": 93,
+      "NbPlays": 282,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "pillsburysMate",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "007en",
+      "GameId": "jzE2yKAk#39",
+      "FEN": "rn3rk1/4pp1p/3p2pB/2q4P/3bP1b1/Pp2Q3/1P2B3/1K1R2NR w - - 0 20",
+      "Moves": "e3d4 c5c2 b1a1 a8a3 b2a3 c2a2",
+      "Rating": 1733,
+      "RatingDeviation": 76,
+      "Popularity": 96,
+      "NbPlays": 3818,
+      "Themes": [
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "queensideAttack",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "007ku",
+      "GameId": "QveLbBjG/black#70",
+      "FEN": "r1bq3Q/1np2kp1/p5B1/1p1Pp3/1Pn2BP1/2b2P2/P3K3/R4N2 b - - 5 35",
+      "Moves": "f7g6 h8h5 g6f6 f4g5",
+      "Rating": 1663,
+      "RatingDeviation": 75,
+      "Popularity": 89,
+      "NbPlays": 965,
+      "Themes": [
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "007mr",
+      "GameId": "J12UnEgz#65",
+      "FEN": "5k2/p2r3p/1p4pP/3r1q2/3Rp3/2P5/PP3PQ1/K3R3 w - - 0 33",
+      "Moves": "d4e4 d5d1 e1d1 d7d1",
+      "Rating": 604,
+      "RatingDeviation": 77,
+      "Popularity": 100,
+      "NbPlays": 200,
+      "Themes": [
+        "backRankMate",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "0092z",
+      "GameId": "fjaha7q0/black#52",
+      "FEN": "2r3k1/2qR1ppp/p7/2p2Q2/P7/7P/5PP1/6K1 b - - 3 26",
+      "Moves": "c7c6 f5f7 g8h8 f7g7",
+      "Rating": 991,
+      "RatingDeviation": 91,
+      "Popularity": 94,
+      "NbPlays": 442,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "009BH",
+      "GameId": "QauOOpOY/black#102",
+      "FEN": "3r2k1/6p1/4Q3/4B3/1p3P2/4PKP1/3q4/8 b - - 17 51",
+      "Moves": "g8h8 e6h6 h8g8 h6g7",
+      "Rating": 1445,
+      "RatingDeviation": 74,
+      "Popularity": 96,
+      "NbPlays": 8390,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "pin",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "009IO",
+      "GameId": "LJBrm9Or/black#50",
+      "FEN": "3rk3/5p1r/p2Np1p1/3bP3/P2n4/8/1P3RPP/5RK1 b - - 4 25",
+      "Moves": "e8e7 f2f7 h7f7 f1f7",
+      "Rating": 1162,
+      "RatingDeviation": 83,
+      "Popularity": 87,
+      "NbPlays": 547,
+      "Themes": [
+        "hookMate",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "009J1",
+      "GameId": "lPhlt9XF/black#34",
+      "FEN": "rn2k2r/pp2bp1p/2p1pNp1/6B1/5P2/7P/PPP4P/2K1RR2 b - - 3 17",
+      "Moves": "e8f8 g5h6",
+      "Rating": 1203,
+      "RatingDeviation": 76,
+      "Popularity": 98,
+      "NbPlays": 1045,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": [
+        "Pirc_Defense",
+        "Pirc_Defense_Byrne_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "009bR",
+      "GameId": "rvHGlZar/black#74",
+      "FEN": "4r2k/3q2r1/1p4pQ/p1pP4/2P4P/1N4p1/PP3RK1/8 b - - 1 37",
+      "Moves": "g7h7 f2f8 e8f8 h6f8",
+      "Rating": 1024,
+      "RatingDeviation": 77,
+      "Popularity": 82,
+      "NbPlays": 154,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "009wR",
+      "GameId": "tBBaKL5q#81",
+      "FEN": "1R2R3/p7/1p1k3p/1Pb5/P5p1/6P1/5rKP/8 w - - 6 41",
+      "Moves": "g2h1 f2f1 h1g2 f1g1",
+      "Rating": 1234,
+      "RatingDeviation": 76,
+      "Popularity": 93,
+      "NbPlays": 560,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "operaMate",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "009zR",
+      "GameId": "SctCD3fJ#43",
+      "FEN": "3r4/p1p2ppp/4k3/6Q1/5P2/4P3/Prqn2PP/3R1RK1 w - - 3 22",
+      "Moves": "g5d8 d2f3 g1h1 c2g2",
+      "Rating": 1620,
+      "RatingDeviation": 77,
+      "Popularity": 87,
+      "NbPlays": 180,
+      "Themes": [
+        "discoveredAttack",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00BrZ",
+      "GameId": "ANKrgoJi#55",
+      "FEN": "r6r/pp2kb2/3p1p1Q/1N1Pp3/3bP3/P2B2P1/1P4PP/7K w - - 6 28",
+      "Moves": "h6d2 h8h2 h1h2 a8h8 d2h6 h8h6",
+      "Rating": 1380,
+      "RatingDeviation": 76,
+      "Popularity": 84,
+      "NbPlays": 441,
+      "Themes": [
+        "attraction",
+        "kingsideAttack",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "pillsburysMate",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00CWE",
+      "GameId": "VCQ4NAd0/black#62",
+      "FEN": "3r4/1p4p1/2pBkbBp/p1P5/3rp3/P7/1PK2P2/4R3 b - - 1 31",
+      "Moves": "e6d5 g6f7",
+      "Rating": 1472,
+      "RatingDeviation": 78,
+      "Popularity": 94,
+      "NbPlays": 3657,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00Cwz",
+      "GameId": "o6LOeNAf#67",
+      "FEN": "1r5r/5pk1/4p3/2Np2PP/p1nP4/n1P5/P3B3/K1R4R w - - 2 34",
+      "Moves": "c5a4 b8b1 c1b1 a3c2",
+      "Rating": 1475,
+      "RatingDeviation": 78,
+      "Popularity": 89,
+      "NbPlays": 119,
+      "Themes": [
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "sacrifice",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00F6y",
+      "GameId": "Hii0fRVd/black#46",
+      "FEN": "2k3r1/ppp2prp/1q2b3/8/Q7/2P1R1P1/P4P1P/4R1K1 b - - 3 23",
+      "Moves": "e6d7 e3e8 d7e8 e1e8 g8e8 a4e8",
+      "Rating": 938,
+      "RatingDeviation": 97,
+      "Popularity": 92,
+      "NbPlays": 830,
+      "Themes": [
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "queensideAttack",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00FND",
+      "GameId": "C4mOV5Og#97",
+      "FEN": "8/1P6/8/7p/3P4/3k1p1P/4p3/3K4 w - - 0 49",
+      "Moves": "d1e1 d3e3 h3h4 f3f2",
+      "Rating": 1728,
+      "RatingDeviation": 76,
+      "Popularity": 96,
+      "NbPlays": 3752,
+      "Themes": [
+        "advancedPawn",
+        "endgame",
+        "mate",
+        "mateIn2",
+        "pawnEndgame",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00GuD",
+      "GameId": "zcHeWRaO/black#50",
+      "FEN": "1n5k/4r1p1/p2q1rPp/1ppB4/8/3P4/PPP1RPQ1/2K4R b - - 4 25",
+      "Moves": "e7e2 h1h6 g7h6 g6g7 h8h7 g7g8q",
+      "Rating": 1152,
+      "RatingDeviation": 76,
+      "Popularity": 88,
+      "NbPlays": 562,
+      "Themes": [
+        "advancedPawn",
+        "kingsideAttack",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "promotion",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00Gv1",
+      "GameId": "cF0zaKHB#63",
+      "FEN": "8/1pp1r1kp/4r1p1/p1P5/5Q2/P4PPq/1P1R3P/3R2K1 w - - 2 32",
+      "Moves": "d2d8 e6e1 d1e1 e7e1 g1f2 h3f1",
+      "Rating": 1063,
+      "RatingDeviation": 75,
+      "Popularity": 100,
+      "NbPlays": 169,
+      "Themes": [
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00H1C",
+      "GameId": "GzcjOw0p/black#44",
+      "FEN": "r3r3/1kpRnqpp/p4p2/Qp2P2P/1N6/4Pb2/PPP3P1/2K2R2 b - - 0 22",
+      "Moves": "e7c6 a5c7",
+      "Rating": 1311,
+      "RatingDeviation": 76,
+      "Popularity": 94,
+      "NbPlays": 3313,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove",
+        "swallowstailMate"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00HXr",
+      "GameId": "c18wDmSc/black#44",
+      "FEN": "2k4r/Q1p2pp1/5n2/3rNq2/4p2p/6Pb/PPP1BP1P/R3R1K1 b - - 1 22",
+      "Moves": "h4g3 a7a8",
+      "Rating": 1494,
+      "RatingDeviation": 77,
+      "Popularity": 100,
+      "NbPlays": 742,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00HoG",
+      "GameId": "zwJu9mKP/black#72",
+      "FEN": "5r1k/5r2/2b2RQp/1p1p2p1/1q4P1/8/8/1B3R1K b - - 0 36",
+      "Moves": "f7f6 g6h7",
+      "Rating": 1487,
+      "RatingDeviation": 85,
+      "Popularity": 89,
+      "NbPlays": 4656,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00IPp",
+      "GameId": "JKNcTJw1#69",
+      "FEN": "4Q3/6pk/p3p2p/5p2/1p1P2P1/4q2P/2B1n2B/7K w - - 0 35",
+      "Moves": "g4f5 e3f3",
+      "Rating": 1531,
+      "RatingDeviation": 88,
+      "Popularity": 90,
+      "NbPlays": 2695,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00IUW",
+      "GameId": "83tyhOfz#45",
+      "FEN": "8/Q1p1r1kp/5pp1/3P3r/4P3/2N2bPq/PPP2R1P/5RK1 w - - 3 23",
+      "Moves": "a7e3 h3g3 h2g3 h5h1",
+      "Rating": 1783,
+      "RatingDeviation": 76,
+      "Popularity": 97,
+      "NbPlays": 3061,
+      "Themes": [
+        "clearance",
+        "kingsideAttack",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "operaMate",
+        "sacrifice",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00Ivf",
+      "GameId": "VX0fLjAC#91",
+      "FEN": "8/2p4r/1p3k2/p2Pp1p1/P1P1RpP1/1P3P1r/4R1K1/8 w - - 7 46",
+      "Moves": "e4e5 h3h2 g2f1 h2h1 f1f2 h7h2",
+      "Rating": 1604,
+      "RatingDeviation": 79,
+      "Popularity": 93,
+      "NbPlays": 285,
+      "Themes": [
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3",
+        "rookEndgame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00J1t",
+      "GameId": "77hjhVfM/black#44",
+      "FEN": "r1qr3k/pp3pB1/1np1pb2/8/3P3P/2N2PR1/PP1Q2P1/2KR4 b - - 0 22",
+      "Moves": "f6g7 d2g5 d8g8 g5h5 g7h6 h5h6",
+      "Rating": 1642,
+      "RatingDeviation": 74,
+      "Popularity": 96,
+      "NbPlays": 15389,
+      "Themes": [
+        "exposedKing",
+        "kingsideAttack",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00JR7",
+      "GameId": "jSoa2xnc/black#46",
+      "FEN": "r4rk1/pp2q1p1/2p1p2p/3nP1pP/3P2P1/2PQ1R2/PPB5/R5K1 b - - 1 23",
+      "Moves": "f8f3 d3h7 g8f7 c2g6 f7f8 h7h8",
+      "Rating": 1327,
+      "RatingDeviation": 75,
+      "Popularity": 95,
+      "NbPlays": 4786,
+      "Themes": [
+        "kingsideAttack",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00JsQ",
+      "GameId": "5HP9frAd/black#28",
+      "FEN": "r1b1k1nr/pp1np2p/2q1Npp1/2P1p3/2B5/2N3B1/PPPR1PPP/2K4R b kq - 2 14",
+      "Moves": "d7c5 d2d8 e8f7 d8f8",
+      "Rating": 1990,
+      "RatingDeviation": 78,
+      "Popularity": 83,
+      "NbPlays": 392,
+      "Themes": [
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "OpeningTags": [
+        "Indian_Defense",
+        "Indian_Defense_Other_variations"
+      ]
+    },
+    {
+      "PuzzleId": "00Kbj",
+      "GameId": "PW8a1JvE#77",
+      "FEN": "8/8/6p1/PR3p2/1P3k2/7P/r5P1/7K w - - 1 39",
+      "Moves": "h3h4 f4g3 b5d5 a2a1 d5d1 a1d1",
+      "Rating": 1479,
+      "RatingDeviation": 79,
+      "Popularity": 94,
+      "NbPlays": 15979,
+      "Themes": [
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3",
+        "rookEndgame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00Kyy",
+      "GameId": "VrBw9rnh#99",
+      "FEN": "8/P7/8/5k2/8/5pr1/5r2/R6K w - - 0 50",
+      "Moves": "a7a8q g3h3 h1g1 f2g2 g1f1 h3h1",
+      "Rating": 1219,
+      "RatingDeviation": 75,
+      "Popularity": 84,
+      "NbPlays": 259,
+      "Themes": [
+        "endgame",
+        "exposedKing",
+        "long",
+        "master",
+        "mate",
+        "mateIn3",
+        "queenRookEndgame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00NEO",
+      "GameId": "43Kqr7qG/black#48",
+      "FEN": "4qr2/pR1b2pk/5p1p/4pPP1/3bB3/3P3Q/P1r4P/4BR1K b - - 0 24",
+      "Moves": "d7c6 h3h6 h7g8 h6g7",
+      "Rating": 1874,
+      "RatingDeviation": 77,
+      "Popularity": 93,
+      "NbPlays": 1806,
+      "Themes": [
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "pin",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00NHK",
+      "GameId": "YWzSZGeb/black#34",
+      "FEN": "r1b2rk1/1p2b1p1/pqn1p1P1/3pP3/1P1P4/P1N1P3/6P1/R2QK2R b KQ - 0 17",
+      "Moves": "c6e5 h1h8 g8h8 d1h5 h8g8 h5h7",
+      "Rating": 1796,
+      "RatingDeviation": 76,
+      "Popularity": 96,
+      "NbPlays": 4450,
+      "Themes": [
+        "attraction",
+        "fork",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "sacrifice"
+      ],
+      "OpeningTags": [
+        "French_Defense",
+        "French_Defense_Advance_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "00O9a",
+      "GameId": "t6wbqTty#69",
+      "FEN": "1k3r2/q5r1/2Qp3p/N2Bp3/4P1p1/P7/1PP2PPP/R5K1 w - - 12 35",
+      "Moves": "a5c4 a7f2 g1h1 f2f1 a1f1 f8f1",
+      "Rating": 985,
+      "RatingDeviation": 88,
+      "Popularity": 91,
+      "NbPlays": 729,
+      "Themes": [
+        "backRankMate",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00Pr6",
+      "GameId": "CtrEbVZV/black#34",
+      "FEN": "r1b2rk1/p4ppp/2p5/6q1/2p3P1/3P1Q1P/PPP5/1K2RR2 b - - 0 17",
+      "Moves": "c4d3 f3f7 f8f7 e1e8 f7f8 f1f8",
+      "Rating": 1474,
+      "RatingDeviation": 78,
+      "Popularity": 94,
+      "NbPlays": 2165,
+      "Themes": [
+        "kingsideAttack",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "sacrifice"
+      ],
+      "OpeningTags": [
+        "Kings_Knight_Opening",
+        "Kings_Knight_Opening_Normal_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "00QHM",
+      "GameId": "VyUHT6ng/black#56",
+      "FEN": "6k1/pp3rpp/4Nb2/4p3/1B1r4/6PK/PP5P/2R5 b - - 0 28",
+      "Moves": "d4b4 c1c8 f6d8 c8d8 f7f8 d8f8",
+      "Rating": 904,
+      "RatingDeviation": 99,
+      "Popularity": 95,
+      "NbPlays": 231,
+      "Themes": [
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00QW1",
+      "GameId": "I3LnvYRW#61",
+      "FEN": "8/3r1ppp/4p3/k3P3/pR2R2P/2P5/2Kr1PP1/8 w - - 4 31",
+      "Moves": "c2c1 d2d1 c1b2 d7d2 b2a3 d1a1",
+      "Rating": 975,
+      "RatingDeviation": 81,
+      "Popularity": 96,
+      "NbPlays": 301,
+      "Themes": [
+        "endgame",
+        "exposedKing",
+        "long",
+        "mate",
+        "mateIn3",
+        "rookEndgame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00Se9",
+      "GameId": "cMwUzce9/black#48",
+      "FEN": "5rk1/pp1n2r1/3p2N1/2pQ4/2P5/4P1P1/qP2KPP1/7R b - - 1 24",
+      "Moves": "g7f7 g6e7 g8g7 d5g5",
+      "Rating": 1836,
+      "RatingDeviation": 75,
+      "Popularity": 95,
+      "NbPlays": 5464,
+      "Themes": [
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "pin",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00Ycz",
+      "GameId": "9BdeH5eE#63",
+      "FEN": "5k2/5r1p/pp2pQ2/8/8/1P6/P1q2PPP/4R1K1 w - - 1 32",
+      "Moves": "f6e6 c2f2 g1h1 f2f1 e1f1 f7f1",
+      "Rating": 1081,
+      "RatingDeviation": 77,
+      "Popularity": 100,
+      "NbPlays": 238,
+      "Themes": [
+        "backRankMate",
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00ZEc",
+      "GameId": "7IfLNNVB/black#70",
+      "FEN": "1r3bk1/5p2/3P1qRP/r1n1p3/ppB5/P2Q1P2/1PP5/1K6 b - - 0 35",
+      "Moves": "g8h7 g6g7 h7h6 d3h7",
+      "Rating": 1803,
+      "RatingDeviation": 73,
+      "Popularity": 96,
+      "NbPlays": 20946,
+      "Themes": [
+        "discoveredCheck",
+        "doubleCheck",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00d5g",
+      "GameId": "Vf4zaDk5/black#64",
+      "FEN": "2b2rk1/pp4p1/2p5/4r3/2B5/1P6/P4pK1/5R2 b - - 4 32",
+      "Moves": "g8h8 f1h1 c8h3 h1h3 e5h5 h3h5",
+      "Rating": 1090,
+      "RatingDeviation": 84,
+      "Popularity": 85,
+      "NbPlays": 618,
+      "Themes": [
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3",
+        "pillsburysMate"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00dt1",
+      "GameId": "AQkAsoMX#107",
+      "FEN": "Q7/8/3B4/2p5/Krkn4/8/8/8 w - - 1 54",
+      "Moves": "a4a3 d4b5 a3a2 b5c3 a2a1 b4b1",
+      "Rating": 2234,
+      "RatingDeviation": 77,
+      "Popularity": 95,
+      "NbPlays": 17467,
+      "Themes": [
+        "arabianMate",
+        "endgame",
+        "exposedKing",
+        "fork",
+        "long",
+        "master",
+        "mate",
+        "mateIn3"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00fxc",
+      "GameId": "cFwPoNNu#71",
+      "FEN": "4r2k/1pQ2p2/p4N1p/5P2/1P6/P1Pn1K2/4r3/6R1 w - - 1 36",
+      "Moves": "c7f7 e8e3 f3g4 d3e5 g4h5 e2h2",
+      "Rating": 2092,
+      "RatingDeviation": 77,
+      "Popularity": 96,
+      "NbPlays": 2346,
+      "Themes": [
+        "endgame",
+        "exposedKing",
+        "fork",
+        "long",
+        "mate",
+        "mateIn3"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00gH0",
+      "GameId": "vnNaoc4v/black#70",
+      "FEN": "3r2k1/6pp/8/5Q2/2pP4/2Pq2P1/5RKP/8 b - - 2 35",
+      "Moves": "d3c3 f5f7 g8h8 f7f8 d8f8 f2f8",
+      "Rating": 1349,
+      "RatingDeviation": 88,
+      "Popularity": 83,
+      "NbPlays": 825,
+      "Themes": [
+        "backRankMate",
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00gNl",
+      "GameId": "JhG6365X/black#76",
+      "FEN": "6k1/5R2/pp4p1/2p4p/7P/1P1r4/P3r1PK/5R2 b - - 0 38",
+      "Moves": "d3d2 f7f8 g8h7 f1f7 h7h6 f8h8",
+      "Rating": 914,
+      "RatingDeviation": 81,
+      "Popularity": 97,
+      "NbPlays": 1535,
+      "Themes": [
+        "endgame",
+        "exposedKing",
+        "long",
+        "mate",
+        "mateIn3",
+        "rookEndgame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00hgt",
+      "GameId": "V4t9VxQd/black#48",
+      "FEN": "r6k/pp1b2p1/3p2rp/6q1/2Q2p2/1P3P1P/PBP1R1P1/4R1K1 b - - 1 24",
+      "Moves": "d7h3 e2e8 a8e8 e1e8 h8h7 c4g8",
+      "Rating": 864,
+      "RatingDeviation": 93,
+      "Popularity": 98,
+      "NbPlays": 335,
+      "Themes": [
+        "kingsideAttack",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00mRr",
+      "GameId": "0dpg8xr1/black#82",
+      "FEN": "8/2Q2kpp/1p1p2r1/1PnN4/2P1n3/6P1/1r3PK1/8 b - - 6 41",
+      "Moves": "f7e6 c7e7 e6f5 d5e3",
+      "Rating": 1861,
+      "RatingDeviation": 80,
+      "Popularity": 95,
+      "NbPlays": 16929,
+      "Themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn2",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00nsa",
+      "GameId": "5vB71xSl#67",
+      "FEN": "6k1/1p1R3p/pB4p1/P3bpK1/4r2P/6P1/2P2P2/8 w - - 3 34",
+      "Moves": "b6c5 e4g4 g5h6 g4h4 g3h4 e5f4",
+      "Rating": 2231,
+      "RatingDeviation": 77,
+      "Popularity": 94,
+      "NbPlays": 1052,
+      "Themes": [
+        "deflection",
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00rHa",
+      "GameId": "e3RK92Rx#27",
+      "FEN": "2kr3r/pp2nppp/4p3/2PpP3/bn1N2Q1/q1N5/2PB1PPP/1K1R1B1R w - - 4 14",
+      "Moves": "f1b5 a4c2 d4c2 a3b3 b1a1 b4c2",
+      "Rating": 1928,
+      "RatingDeviation": 76,
+      "Popularity": 80,
+      "NbPlays": 158,
+      "Themes": [
+        "deflection",
+        "fork",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "sacrifice"
+      ],
+      "OpeningTags": [
+        "French_Defense",
+        "French_Defense_Winawer_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "00rqm",
+      "GameId": "v9qNACJc/black#60",
+      "FEN": "2r2r1k/3b3n/p6q/1p1nN3/7P/3P2Q1/PPP2P2/1K4RR b - - 0 30",
+      "Moves": "d7f5 g3g8 f8g8 e5f7",
+      "Rating": 1934,
+      "RatingDeviation": 76,
+      "Popularity": 96,
+      "NbPlays": 9715,
+      "Themes": [
+        "cornerMate",
+        "kingsideAttack",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "sacrifice",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00rw0",
+      "GameId": "37v3pkKy/black#78",
+      "FEN": "r2q3k/5Pb1/2n3Bp/3p2pP/pp1P2Q1/6B1/1PP5/6K1 b - - 0 39",
+      "Moves": "g7d4 g4d4 c6d4 g3e5 d8f6 e5f6",
+      "Rating": 1835,
+      "RatingDeviation": 76,
+      "Popularity": 100,
+      "NbPlays": 1079,
+      "Themes": [
+        "exposedKing",
+        "fork",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00vuv",
+      "GameId": "SJRbBrel/black#60",
+      "FEN": "r3r3/2q1b1pk/p3P1Np/5Qp1/8/3p4/PPp2P2/2R1R1K1 b - - 1 30",
+      "Moves": "d3d2 g6f8 h7g8 f5h7 g8f8 h7h8",
+      "Rating": 2102,
+      "RatingDeviation": 76,
+      "Popularity": 94,
+      "NbPlays": 4661,
+      "Themes": [
+        "discoveredCheck",
+        "doubleCheck",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00yzf",
+      "GameId": "OIVHVypq/black#58",
+      "FEN": "3rk3/3N2R1/4P1pr/3pP3/2p5/6p1/PP6/2K5 b - - 3 29",
+      "Moves": "g3g2 d7f6 e8f8 g7f7",
+      "Rating": 1917,
+      "RatingDeviation": 76,
+      "Popularity": 94,
+      "NbPlays": 3725,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn2",
+        "short",
+        "vukovicMate"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "00zqB",
+      "GameId": "EURKTOGv/black#54",
+      "FEN": "3r1rk1/pp6/5pb1/2p2q2/8/P2P4/1PP4Q/2K3RR b - - 1 27",
+      "Moves": "c5c4 h2h7",
+      "Rating": 1809,
+      "RatingDeviation": 84,
+      "Popularity": 88,
+      "NbPlays": 1322,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove",
+        "pin"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "010WS",
+      "GameId": "WNpzh8ee#73",
+      "FEN": "6k1/p2Q4/3p2p1/8/3qPn2/5P2/PPR3PP/6K1 w - - 2 37",
+      "Moves": "c2f2 f4e2 g1h1 d4d1 f2f1 d1f1",
+      "Rating": 1985,
+      "RatingDeviation": 79,
+      "Popularity": 100,
+      "NbPlays": 858,
+      "Themes": [
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3",
+        "pin"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "011GG",
+      "GameId": "VzSTV2sV#71",
+      "FEN": "1R1Q4/5ppk/7p/4Pb2/1P6/2b5/3r3P/1K1R4 w - - 3 36",
+      "Moves": "b1c1 d2c2 c1b1 c2b2 b1a1 b2h2",
+      "Rating": 2112,
+      "RatingDeviation": 82,
+      "Popularity": 89,
+      "NbPlays": 150,
+      "Themes": [
+        "discoveredAttack",
+        "discoveredCheck",
+        "doubleCheck",
+        "endgame",
+        "exposedKing",
+        "long",
+        "mate",
+        "mateIn3",
+        "morphysMate"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "012LI",
+      "GameId": "ITMhkGpD#65",
+      "FEN": "6k1/p4p1p/4bp2/1p2p3/3r4/KP1nQPN1/P5B1/8 w - - 0 33",
+      "Moves": "g2f1 d4a4 b3a4 b5b4",
+      "Rating": 2272,
+      "RatingDeviation": 78,
+      "Popularity": 95,
+      "NbPlays": 3179,
+      "Themes": [
+        "endgame",
+        "master",
+        "mate",
+        "mateIn2",
+        "sacrifice",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "016rF",
+      "GameId": "IoUBUxjr/black#38",
+      "FEN": "r4qk1/pppb2p1/1bnp1R2/6N1/8/2NQ2B1/PP4PP/7K b - - 0 19",
+      "Moves": "f8f6 d3h7 g8f8 h7h8 f8e7 c3d5",
+      "Rating": 1813,
+      "RatingDeviation": 74,
+      "Popularity": 95,
+      "NbPlays": 8484,
+      "Themes": [
+        "kingsideAttack",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame"
+      ],
+      "OpeningTags": [
+        "Kings_Gambit_Declined",
+        "Kings_Gambit_Declined_Queens_Knight_Defense"
+      ]
+    },
+    {
+      "PuzzleId": "019gx",
+      "GameId": "pCBDwbPH#89",
+      "FEN": "1r6/6R1/3p4/1P1Rp3/K1r1P3/2k2P2/8/8 w - - 1 45",
+      "Moves": "a4a5 c4a4 a5a4 b8a8 g7a7 a8a7",
+      "Rating": 2117,
+      "RatingDeviation": 83,
+      "Popularity": 86,
+      "NbPlays": 291,
+      "Themes": [
+        "attraction",
+        "endgame",
+        "long",
+        "mate",
+        "mateIn3",
+        "rookEndgame",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "01B5q",
+      "GameId": "seEUcuvw/black#72",
+      "FEN": "r4rk1/1pp1np1p/p4Qp1/3P3P/P2Nq3/8/1B4R1/5B1K b - - 0 36",
+      "Moves": "e7d5 f6g7 g8g7 d4f5 g7g8 f5h6",
+      "Rating": 2117,
+      "RatingDeviation": 73,
+      "Popularity": 94,
+      "NbPlays": 10720,
+      "Themes": [
+        "attraction",
+        "discoveredCheck",
+        "doubleCheck",
+        "long",
+        "mate",
+        "mateIn3",
+        "middlegame",
+        "pin",
+        "sacrifice"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "01HAa",
+      "GameId": "duha46pd/black#38",
+      "FEN": "r1bq3r/1np1k1b1/pp1p3p/3Pp2B/2P1Pp1Q/2N5/PP1N2PP/R4RK1 b - - 5 19",
+      "Moves": "e7d7 h4g4 d7e7 g4g7",
+      "Rating": 1913,
+      "RatingDeviation": 78,
+      "Popularity": 86,
+      "NbPlays": 287,
+      "Themes": [
+        "fork",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "01a5v",
+      "GameId": "NLOK8h0L#63",
+      "FEN": "4r2k/R7/1p6/5ppp/3P1P1K/4P3/PP2QPq1/2R5 w - - 0 32",
+      "Moves": "f4g5 g2h2",
+      "Rating": 1885,
+      "RatingDeviation": 81,
+      "Popularity": 83,
+      "NbPlays": 804,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "01faz",
+      "GameId": "VaOgGVYf/black#44",
+      "FEN": "3nrr1k/1ppR2p1/p6p/6NQ/2B2p1P/1P6/P1PK1PP1/q6R b - - 2 22",
+      "Moves": "a1h1 h5h6 g7h6 d7h7",
+      "Rating": 1804,
+      "RatingDeviation": 78,
+      "Popularity": 91,
+      "NbPlays": 1957,
+      "Themes": [
+        "kingsideAttack",
+        "mate",
+        "mateIn2",
+        "middlegame",
+        "pillsburysMate",
+        "sacrifice",
+        "short"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "020Gj",
+      "GameId": "4yncvvbj#41",
+      "FEN": "r4r1k/ppp1N1pp/1b1p1p2/8/8/2PB1q1b/P1QB1P1P/R3R1K1 w - - 0 21",
+      "Moves": "d3e4 b6f2",
+      "Rating": 1955,
+      "RatingDeviation": 82,
+      "Popularity": 88,
+      "NbPlays": 628,
+      "Themes": [
+        "kingsideAttack",
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "04cDV",
+      "GameId": "kOHlHrhw/black#36",
+      "FEN": "r4k1r/pp2Bppp/4nq2/1B6/8/2b3QP/P4PP1/3R1RK1 b - - 0 18",
+      "Moves": "f8e7 g3d6",
+      "Rating": 1924,
+      "RatingDeviation": 80,
+      "Popularity": 91,
+      "NbPlays": 550,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": [
+        "Queens_Pawn_Game",
+        "Queens_Pawn_Game_Krause_Variation"
+      ]
+    },
+    {
+      "PuzzleId": "04hNd",
+      "GameId": "acB1djfT/black#70",
+      "FEN": "8/7p/2p5/3q1pQ1/4p3/5kPP/3P1P2/6K1 b - - 2 35",
+      "Moves": "d5d3 g5h5",
+      "Rating": 1977,
+      "RatingDeviation": 88,
+      "Popularity": 90,
+      "NbPlays": 2956,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "queenEndgame"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "05V7Z",
+      "GameId": "IGxZcoAP#41",
+      "FEN": "Bn2r1k1/p4ppp/3p4/2p3bP/3p2P1/1P1Q4/1PP1N2q/R2NK3 w Q - 0 21",
+      "Moves": "d1f2 h2g1",
+      "Rating": 1819,
+      "RatingDeviation": 76,
+      "Popularity": 95,
+      "NbPlays": 2445,
+      "Themes": [
+        "master",
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove",
+        "pin"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "07mts",
+      "GameId": "n8QKeH14#47",
+      "FEN": "6k1/pbp2pp1/3p3p/2p5/2P3nB/1P5P/PQP3r1/4R1K1 w - - 0 24",
+      "Moves": "g1f1 g4h2",
+      "Rating": 1835,
+      "RatingDeviation": 82,
+      "Popularity": 82,
+      "NbPlays": 731,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "089y1",
+      "GameId": "haC6xdaq#57",
+      "FEN": "3r2k1/1p3ppp/4p3/P1B1P3/1QN1qP2/5n2/5PRP/5K2 w - - 0 29",
+      "Moves": "c4d6 e4d3",
+      "Rating": 1860,
+      "RatingDeviation": 82,
+      "Popularity": 93,
+      "NbPlays": 2086,
+      "Themes": [
+        "mate",
+        "mateIn1",
+        "middlegame",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "09CMV",
+      "GameId": "WsAk18Ux#117",
+      "FEN": "k1r5/5Pq1/K1pQ1R2/p6p/P1P5/1P6/8/8 w - - 2 59",
+      "Moves": "f7f8q g7a7",
+      "Rating": 1944,
+      "RatingDeviation": 80,
+      "Popularity": 88,
+      "NbPlays": 432,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "09kAc",
+      "GameId": "xeVzc1vE#97",
+      "FEN": "8/4Q2p/5ppk/p7/P3BP2/4n1PK/4q2P/8 w - - 9 49",
+      "Moves": "e7f6 e2g4",
+      "Rating": 1965,
+      "RatingDeviation": 85,
+      "Popularity": 93,
+      "NbPlays": 9112,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove"
+      ],
+      "OpeningTags": null
+    },
+    {
+      "PuzzleId": "09nQI",
+      "GameId": "DsZLWBKA#71",
+      "FEN": "6k1/8/4p2p/2b1P3/1p6/5qNp/PR1Q3B/6K1 w - - 3 36",
+      "Moves": "d2f2 f3g2",
+      "Rating": 1989,
+      "RatingDeviation": 77,
+      "Popularity": 94,
+      "NbPlays": 21831,
+      "Themes": [
+        "endgame",
+        "mate",
+        "mateIn1",
+        "oneMove",
+        "pin"
+      ],
+      "OpeningTags": null
+    }
+  ]
+}

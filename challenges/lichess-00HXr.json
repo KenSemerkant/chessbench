@@ -1,0 +1,26 @@
+{
+  "id": "lichess-00HXr",
+  "title": " Checkmate · 00HXr",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 1494.",
+  "fen": "2k4r/Q1p2pp1/5n2/3rNq2/4p3/6pb/PPP1BP1P/R3R1K1 w - - 0 23",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00HXr",
+    "url": "https://lichess.org/training/00HXr",
+    "gameUrl": "https://lichess.org/c18wDmSc/black#44",
+    "rating": 1494,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "a7a8"
+  ]
+}

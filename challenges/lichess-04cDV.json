@@ -1,0 +1,26 @@
+{
+  "id": "lichess-04cDV",
+  "title": " Checkmate · 04cDV",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 1924.",
+  "fen": "r6r/pp2kppp/4nq2/1B6/8/2b3QP/P4PP1/3R1RK1 w - - 0 19",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "04cDV",
+    "url": "https://lichess.org/training/04cDV",
+    "gameUrl": "https://lichess.org/kOHlHrhw/black#36",
+    "rating": 1924,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g3d6"
+  ]
+}

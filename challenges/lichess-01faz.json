@@ -1,0 +1,30 @@
+{
+  "id": "lichess-01faz",
+  "title": "Kingside Attack · 01faz",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1804.",
+  "fen": "3nrr1k/1ppR2p1/p6p/6NQ/2B2p1P/1P6/P1PK1PP1/7q w - - 0 23",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "hard",
+  "tags": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "pillsburysMate",
+    "sacrifice",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "01faz",
+    "url": "https://lichess.org/training/01faz",
+    "gameUrl": "https://lichess.org/VaOgGVYf/black#44",
+    "rating": 1804,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h5h6",
+    "d7h7"
+  ]
+}

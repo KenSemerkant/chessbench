@@ -1,0 +1,28 @@
+{
+  "id": "lichess-009BH",
+  "title": "Pin · 009BH",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1445.",
+  "fen": "3r3k/6p1/4Q3/4B3/1p3P2/4PKP1/3q4/8 w - - 18 52",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "medium",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn2",
+    "pin",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "009BH",
+    "url": "https://lichess.org/training/009BH",
+    "gameUrl": "https://lichess.org/QauOOpOY/black#102",
+    "rating": 1445,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e6h6",
+    "h6g7"
+  ]
+}

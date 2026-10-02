@@ -1,0 +1,28 @@
+{
+  "id": "lichess-00mRr",
+  "title": " Checkmate · 00mRr",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1861.",
+  "fen": "8/2Q3pp/1p1pk1r1/1PnN4/2P1n3/6P1/1r3PK1/8 w - - 7 42",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "hard",
+  "tags": [
+    "endgame",
+    "master",
+    "mate",
+    "mateIn2",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00mRr",
+    "url": "https://lichess.org/training/00mRr",
+    "gameUrl": "https://lichess.org/0dpg8xr1/black#82",
+    "rating": 1861,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c7e7",
+    "d5e3"
+  ]
+}

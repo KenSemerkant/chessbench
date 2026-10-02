@@ -1,0 +1,28 @@
+{
+  "id": "lichess-001wR",
+  "title": " Checkmate · 001wR",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 1152.",
+  "fen": "6nr/p4p1p/k1p5/1p6/1QN5/2P1P3/4KPqP/8 w - - 0 27",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "long",
+    "mate",
+    "mateIn3"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "001wR",
+    "url": "https://lichess.org/training/001wR",
+    "gameUrl": "https://lichess.org/ruvbd9JW/black#52",
+    "rating": 1152,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "b4a5",
+    "c4d6",
+    "a5d8"
+  ]
+}

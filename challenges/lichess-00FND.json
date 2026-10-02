@@ -1,0 +1,29 @@
+{
+  "id": "lichess-00FND",
+  "title": "Advanced Pawn · 00FND",
+  "description": "Black to move and force mate in 2. Lichess puzzle rating 1728.",
+  "fen": "8/1P6/8/7p/3P4/3k1p1P/4p3/4K3 b - - 1 49",
+  "sideToMove": "black",
+  "mateInN": 2,
+  "difficulty": "medium",
+  "tags": [
+    "advancedPawn",
+    "endgame",
+    "mate",
+    "mateIn2",
+    "pawnEndgame",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00FND",
+    "url": "https://lichess.org/training/00FND",
+    "gameUrl": "https://lichess.org/C4mOV5Og#97",
+    "rating": 1728,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d3e3",
+    "f3f2"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lichess-003Tx",
+  "title": "Back Rank Mate · 003Tx",
+  "description": "Black to move and force mate in 2. Lichess puzzle rating 1511.",
+  "fen": "2r5/pR5p/5p1k/4p3/4R3/B4nPP/PP3P2/1K6 b - - 0 27",
+  "sideToMove": "black",
+  "mateInN": 2,
+  "difficulty": "medium",
+  "tags": [
+    "backRankMate",
+    "endgame",
+    "fork",
+    "mate",
+    "mateIn2",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "003Tx",
+    "url": "https://lichess.org/training/003Tx",
+    "gameUrl": "https://lichess.org/A7j9VEC0#53",
+    "rating": 1511,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f3d2",
+    "c8c1"
+  ]
+}

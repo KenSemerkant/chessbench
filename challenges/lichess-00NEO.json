@@ -1,0 +1,28 @@
+{
+  "id": "lichess-00NEO",
+  "title": "Pin · 00NEO",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1874.",
+  "fen": "4qr2/pR4pk/2b2p1p/4pPP1/3bB3/3P3Q/P1r4P/4BR1K w - - 1 25",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "hard",
+  "tags": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "pin",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00NEO",
+    "url": "https://lichess.org/training/00NEO",
+    "gameUrl": "https://lichess.org/43Kqr7qG/black#48",
+    "rating": 1874,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h3h6",
+    "b7g7"
+  ]
+}

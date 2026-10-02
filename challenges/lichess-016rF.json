@@ -1,0 +1,29 @@
+{
+  "id": "lichess-016rF",
+  "title": "Kingside Attack · 016rF",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 1813.",
+  "fen": "r5k1/pppb2p1/1bnp1q2/6N1/8/2NQ2B1/PP4PP/7K w - - 0 20",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "hard",
+  "tags": [
+    "kingsideAttack",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "016rF",
+    "url": "https://lichess.org/training/016rF",
+    "gameUrl": "https://lichess.org/IoUBUxjr/black#38",
+    "rating": 1813,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d3h7",
+    "h7h8",
+    "c3d5"
+  ]
+}

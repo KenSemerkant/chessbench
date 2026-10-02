@@ -1,0 +1,26 @@
+{
+  "id": "lichess-09kAc",
+  "title": " Checkmate · 09kAc",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1965.",
+  "fen": "8/7p/5Qpk/p7/P3BP2/4n1PK/4q2P/8 b - - 0 49",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "09kAc",
+    "url": "https://lichess.org/training/09kAc",
+    "gameUrl": "https://lichess.org/xeVzc1vE#97",
+    "rating": 1965,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e2g4"
+  ]
+}

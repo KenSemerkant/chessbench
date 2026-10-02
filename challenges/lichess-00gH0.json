@@ -1,0 +1,30 @@
+{
+  "id": "lichess-00gH0",
+  "title": "Back Rank Mate · 00gH0",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 1349.",
+  "fen": "3r2k1/6pp/8/5Q2/2pP4/2q3P1/5RKP/8 w - - 0 36",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "medium",
+  "tags": [
+    "backRankMate",
+    "endgame",
+    "long",
+    "mate",
+    "mateIn3",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00gH0",
+    "url": "https://lichess.org/training/00gH0",
+    "gameUrl": "https://lichess.org/vnNaoc4v/black#70",
+    "rating": 1349,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f5f7",
+    "f7f8",
+    "f2f8"
+  ]
+}

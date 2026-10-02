@@ -1,0 +1,27 @@
+{
+  "id": "lichess-0092z",
+  "title": " Checkmate · 0092z",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 991.",
+  "fen": "2r3k1/3R1ppp/p1q5/2p2Q2/P7/7P/5PP1/6K1 w - - 4 27",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn2",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "0092z",
+    "url": "https://lichess.org/training/0092z",
+    "gameUrl": "https://lichess.org/fjaha7q0/black#52",
+    "rating": 991,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f5f7",
+    "f7g7"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "lichess-001w5",
+  "title": "Advanced Pawn · 001w5",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1034.",
+  "fen": "1rb3k1/q4rP1/4p2p/3p3p/3P1P2/2P5/2QK3P/3R2R1 w - - 1 30",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "advancedPawn",
+    "attraction",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "promotion",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "001w5",
+    "url": "https://lichess.org/training/001w5",
+    "gameUrl": "https://lichess.org/0e1vxAEn/black#58",
+    "rating": 1034,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c2h7",
+    "g7g8q"
+  ]
+}

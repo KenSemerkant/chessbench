@@ -1,0 +1,27 @@
+{
+  "id": "lichess-006HV",
+  "title": " Checkmate · 006HV",
+  "description": "Black to move and force mate in 2. Lichess puzzle rating 1159.",
+  "fen": "1r6/5k2/2Q1pNp1/p5Pp/1p2P2P/2P4R/KP3P2/3q4 b - - 0 31",
+  "sideToMove": "black",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn2",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "006HV",
+    "url": "https://lichess.org/training/006HV",
+    "gameUrl": "https://lichess.org/ibb2c72C#61",
+    "rating": 1159,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "b4b3",
+    "d1a1"
+  ]
+}

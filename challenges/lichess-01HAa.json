@@ -1,0 +1,28 @@
+{
+  "id": "lichess-01HAa",
+  "title": "Fork · 01HAa",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1913.",
+  "fen": "r1bq3r/1npk2b1/pp1p3p/3Pp2B/2P1Pp1Q/2N5/PP1N2PP/R4RK1 w - - 6 20",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "hard",
+  "tags": [
+    "fork",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "01HAa",
+    "url": "https://lichess.org/training/01HAa",
+    "gameUrl": "https://lichess.org/duha46pd/black#38",
+    "rating": 1913,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h4g4",
+    "g4g7"
+  ]
+}

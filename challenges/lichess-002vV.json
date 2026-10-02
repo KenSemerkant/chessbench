@@ -1,0 +1,28 @@
+{
+  "id": "lichess-002vV",
+  "title": "Rook Endgame · 002vV",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 565.",
+  "fen": "8/6k1/1R5p/5p1P/5P1K/6P1/8/r7 b - - 3 58",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "master",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "rookEndgame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "002vV",
+    "url": "https://lichess.org/training/002vV",
+    "gameUrl": "https://lichess.org/KB7FAntf#115",
+    "rating": 565,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "a1h1"
+  ]
+}

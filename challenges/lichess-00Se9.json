@@ -1,0 +1,28 @@
+{
+  "id": "lichess-00Se9",
+  "title": "Pin · 00Se9",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1836.",
+  "fen": "5rk1/pp1n1r2/3p2N1/2pQ4/2P5/4P1P1/qP2KPP1/7R w - - 2 25",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "hard",
+  "tags": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "pin",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00Se9",
+    "url": "https://lichess.org/training/00Se9",
+    "gameUrl": "https://lichess.org/cMwUzce9/black#48",
+    "rating": 1836,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g6e7",
+    "d5g5"
+  ]
+}

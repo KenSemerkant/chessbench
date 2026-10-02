@@ -1,0 +1,27 @@
+{
+  "id": "lichess-001pC",
+  "title": "Smothered Mate · 001pC",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 848.",
+  "fen": "r4rk1/pp3ppp/3b4/2p1pPB1/7N/2PP3n/PP4PP/R2Q2RK b - - 0 18",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "smotheredMate"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "001pC",
+    "url": "https://lichess.org/training/001pC",
+    "gameUrl": "https://lichess.org/d04UP3XD#35",
+    "rating": 848,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h3f2"
+  ]
+}

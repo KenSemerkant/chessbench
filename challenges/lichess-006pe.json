@@ -1,0 +1,29 @@
+{
+  "id": "lichess-006pe",
+  "title": "Pin · 006pe",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1600.",
+  "fen": "r4r2/2q1Nb2/5Qpk/2n4p/pp5P/8/1PP2PP1/2KR3R w - - 0 29",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "medium",
+  "tags": [
+    "master",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "pin",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "006pe",
+    "url": "https://lichess.org/training/006pe",
+    "gameUrl": "https://lichess.org/gkSEAS27/black#56",
+    "rating": 1600,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e7f5",
+    "f6g7"
+  ]
+}

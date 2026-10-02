@@ -1,0 +1,26 @@
+{
+  "id": "lichess-00CWE",
+  "title": " Checkmate · 00CWE",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 1472.",
+  "fen": "3r4/1p4p1/2pB1bBp/p1Pk4/3rp3/P7/1PK2P2/4R3 w - - 2 32",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00CWE",
+    "url": "https://lichess.org/training/00CWE",
+    "gameUrl": "https://lichess.org/VCQ4NAd0/black#62",
+    "rating": 1472,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g6f7"
+  ]
+}

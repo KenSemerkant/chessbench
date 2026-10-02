@@ -1,0 +1,29 @@
+{
+  "id": "lichess-005wy",
+  "title": "Queenside Attack · 005wy",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 1938.",
+  "fen": "1r6/pp2kppQ/2n1p1n1/3p2P1/5P2/2PqP3/PP1N4/2KR3R b - - 4 27",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "hard",
+  "tags": [
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "queensideAttack",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "005wy",
+    "url": "https://lichess.org/training/005wy",
+    "gameUrl": "https://lichess.org/mBQMheB4#53",
+    "rating": 1938,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c6b4",
+    "b4a2"
+  ]
+}

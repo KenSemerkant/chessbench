@@ -1,0 +1,30 @@
+{
+  "id": "lichess-00nsa",
+  "title": "Deflection · 00nsa",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 2231.",
+  "fen": "6k1/1p1R3p/p5p1/P1B1bpK1/4r2P/6P1/2P2P2/8 b - - 4 34",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "hard",
+  "tags": [
+    "deflection",
+    "endgame",
+    "long",
+    "mate",
+    "mateIn3",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00nsa",
+    "url": "https://lichess.org/training/00nsa",
+    "gameUrl": "https://lichess.org/5vB71xSl#67",
+    "rating": 2231,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e4g4",
+    "g4h4",
+    "e5f4"
+  ]
+}

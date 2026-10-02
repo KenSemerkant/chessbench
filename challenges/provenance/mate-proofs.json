@@ -1,0 +1,1741 @@
+{
+  "lichess-000Zo": {
+    "depth": 2,
+    "proof": {
+      "move": "e8e1",
+      "replies": {
+        "g1f2": {
+          "move": "e1f1",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-000hf": {
+    "depth": 2,
+    "proof": {
+      "move": "e2e6",
+      "replies": {
+        "f7e8": {
+          "move": "e6f7",
+          "replies": {}
+        },
+        "f7f8": {
+          "move": "e6f7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 5
+  },
+  "lichess-000rZ": {
+    "depth": 1,
+    "proof": {
+      "move": "d6h2",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-001KR": {
+    "depth": 1,
+    "proof": {
+      "move": "d1d8",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-001cr": {
+    "depth": 1,
+    "proof": {
+      "move": "d7e8",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-001om": {
+    "depth": 2,
+    "proof": {
+      "move": "c5f2",
+      "replies": {
+        "g2g3": {
+          "move": "f2g3",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-001pC": {
+    "depth": 1,
+    "proof": {
+      "move": "h3f2",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-001w5": {
+    "depth": 2,
+    "proof": {
+      "move": "c2h7",
+      "replies": {
+        "g8h7": {
+          "move": "g7g8q",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-001wR": {
+    "depth": 3,
+    "proof": {
+      "move": "b4a5",
+      "replies": {
+        "a6b7": {
+          "move": "c4d6",
+          "replies": {
+            "b7a8": {
+              "move": "a5d8",
+              "replies": {}
+            },
+            "b7b8": {
+              "move": "a5d8",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 95
+  },
+  "lichess-001wb": {
+    "depth": 1,
+    "proof": {
+      "move": "g6h5",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-002HE": {
+    "depth": 1,
+    "proof": {
+      "move": "b8g3",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-002Mm": {
+    "depth": 2,
+    "proof": {
+      "move": "h7h8",
+      "replies": {
+        "f8e7": {
+          "move": "h8g7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 5
+  },
+  "lichess-002Q2": {
+    "depth": 1,
+    "proof": {
+      "move": "f5g3",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-002p5": {
+    "depth": 2,
+    "proof": {
+      "move": "c2h7",
+      "replies": {
+        "g8f8": {
+          "move": "h7h8",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-002vV": {
+    "depth": 1,
+    "proof": {
+      "move": "a1h1",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-003AX": {
+    "depth": 1,
+    "proof": {
+      "move": "c2h7",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-003IX": {
+    "depth": 1,
+    "proof": {
+      "move": "e4g3",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-003Tx": {
+    "depth": 2,
+    "proof": {
+      "move": "f3d2",
+      "replies": {
+        "b1a1": {
+          "move": "c8c1",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 4
+  },
+  "lichess-00465": {
+    "depth": 1,
+    "proof": {
+      "move": "f4f8",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-004JD": {
+    "depth": 1,
+    "proof": {
+      "move": "a3c2",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-004WZ": {
+    "depth": 1,
+    "proof": {
+      "move": "c6h1",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-004yJ": {
+    "depth": 1,
+    "proof": {
+      "move": "c6g2",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-004zI": {
+    "depth": 1,
+    "proof": {
+      "move": "h6h8",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-005Bm": {
+    "depth": 2,
+    "proof": {
+      "move": "h4g6",
+      "replies": {
+        "f8g8": {
+          "move": "f6h8",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 9
+  },
+  "lichess-005Ep": {
+    "depth": 1,
+    "proof": {
+      "move": "d6d8",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-005nD": {
+    "depth": 2,
+    "proof": {
+      "move": "c6e6",
+      "replies": {
+        "d5e7": {
+          "move": "e6f7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 4
+  },
+  "lichess-005wJ": {
+    "depth": 1,
+    "proof": {
+      "move": "c7c1",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-005wy": {
+    "depth": 3,
+    "proof": {
+      "move": "c6b4",
+      "replies": {
+        "h7g8": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h7h8": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h7h6": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h7h5": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h7h4": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h7h3": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h7h2": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h7g6": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h7g7": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "f4f5": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "c3c4": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "c3b4": {
+          "move": "b8c8",
+          "replies": {
+            "d2c4": {
+              "move": "c8c4",
+              "replies": {}
+            }
+          }
+        },
+        "e3e4": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "a2a3": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "a2a4": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "b2b3": {
+          "move": "d3c2",
+          "replies": {}
+        },
+        "d2b3": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "d2c4": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "d2e4": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "d2f3": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "d2f1": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "d2b1": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "d1e1": {
+          "move": "d3c2",
+          "replies": {}
+        },
+        "d1f1": {
+          "move": "d3c2",
+          "replies": {}
+        },
+        "d1g1": {
+          "move": "d3c2",
+          "replies": {}
+        },
+        "h1h2": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h1h3": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h1h4": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h1h5": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h1h6": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h1g1": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h1f1": {
+          "move": "b4a2",
+          "replies": {}
+        },
+        "h1e1": {
+          "move": "b4a2",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 811
+  },
+  "lichess-006HV": {
+    "depth": 2,
+    "proof": {
+      "move": "b4b3",
+      "replies": {
+        "a2a3": {
+          "move": "d1a1",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-006pe": {
+    "depth": 2,
+    "proof": {
+      "move": "e7f5",
+      "replies": {
+        "h6h7": {
+          "move": "f6g7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-0071N": {
+    "depth": 2,
+    "proof": {
+      "move": "c2c8",
+      "replies": {
+        "d1d8": {
+          "move": "c8d8",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-007en": {
+    "depth": 3,
+    "proof": {
+      "move": "c5c2",
+      "replies": {
+        "b1a1": {
+          "move": "a8a3",
+          "replies": {
+            "b2a3": {
+              "move": "c2a2",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 96
+  },
+  "lichess-007ku": {
+    "depth": 2,
+    "proof": {
+      "move": "h8h5",
+      "replies": {
+        "g6f6": {
+          "move": "f4g5",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 5
+  },
+  "lichess-007mr": {
+    "depth": 2,
+    "proof": {
+      "move": "d5d1",
+      "replies": {
+        "e1d1": {
+          "move": "d7d1",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-0092z": {
+    "depth": 2,
+    "proof": {
+      "move": "f5f7",
+      "replies": {
+        "g8h8": {
+          "move": "f7g7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 4
+  },
+  "lichess-009BH": {
+    "depth": 2,
+    "proof": {
+      "move": "e6h6",
+      "replies": {
+        "h8g8": {
+          "move": "h6g7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 7
+  },
+  "lichess-009IO": {
+    "depth": 2,
+    "proof": {
+      "move": "f2f7",
+      "replies": {
+        "h7f7": {
+          "move": "f1f7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 5
+  },
+  "lichess-009J1": {
+    "depth": 1,
+    "proof": {
+      "move": "g5h6",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-009bR": {
+    "depth": 2,
+    "proof": {
+      "move": "f2f8",
+      "replies": {
+        "e8f8": {
+          "move": "h6f8",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-009wR": {
+    "depth": 2,
+    "proof": {
+      "move": "f2f1",
+      "replies": {
+        "h1g2": {
+          "move": "f1g1",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-009zR": {
+    "depth": 2,
+    "proof": {
+      "move": "d2f3",
+      "replies": {
+        "g2f3": {
+          "move": "c2g2",
+          "replies": {}
+        },
+        "f1f3": {
+          "move": "c2g2",
+          "replies": {}
+        },
+        "g1h1": {
+          "move": "c2g2",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 5
+  },
+  "lichess-00BrZ": {
+    "depth": 3,
+    "proof": {
+      "move": "h8h2",
+      "replies": {
+        "h1h2": {
+          "move": "a8h8",
+          "replies": {
+            "d2h6": {
+              "move": "h8h6",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 44
+  },
+  "lichess-00CWE": {
+    "depth": 1,
+    "proof": {
+      "move": "g6f7",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-00Cwz": {
+    "depth": 2,
+    "proof": {
+      "move": "b8b1",
+      "replies": {
+        "c1b1": {
+          "move": "a3c2",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 4
+  },
+  "lichess-00F6y": {
+    "depth": 3,
+    "proof": {
+      "move": "e3e8",
+      "replies": {
+        "g8e8": {
+          "move": "e1e8",
+          "replies": {
+            "d7e8": {
+              "move": "a4e8",
+              "replies": {}
+            }
+          }
+        },
+        "d7e8": {
+          "move": "e1e8",
+          "replies": {
+            "g8e8": {
+              "move": "a4e8",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 81
+  },
+  "lichess-00FND": {
+    "depth": 2,
+    "proof": {
+      "move": "d3e3",
+      "replies": {
+        "b7b8n": {
+          "move": "f3f2",
+          "replies": {}
+        },
+        "b7b8b": {
+          "move": "f3f2",
+          "replies": {}
+        },
+        "b7b8r": {
+          "move": "f3f2",
+          "replies": {}
+        },
+        "b7b8q": {
+          "move": "f3f2",
+          "replies": {}
+        },
+        "d4d5": {
+          "move": "f3f2",
+          "replies": {}
+        },
+        "h3h4": {
+          "move": "f3f2",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 13
+  },
+  "lichess-00GuD": {
+    "depth": 3,
+    "proof": {
+      "move": "h1h6",
+      "replies": {
+        "g7h6": {
+          "move": "g6g7",
+          "replies": {
+            "h8h7": {
+              "move": "g7g8q",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 44
+  },
+  "lichess-00Gv1": {
+    "depth": 3,
+    "proof": {
+      "move": "e6e1",
+      "replies": {
+        "d1e1": {
+          "move": "e7e1",
+          "replies": {
+            "g1f2": {
+              "move": "h3f1",
+              "replies": {}
+            }
+          }
+        },
+        "g1f2": {
+          "move": "e7e2",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 37
+  },
+  "lichess-00H1C": {
+    "depth": 1,
+    "proof": {
+      "move": "a5c7",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-00HXr": {
+    "depth": 1,
+    "proof": {
+      "move": "a7a8",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-00HoG": {
+    "depth": 1,
+    "proof": {
+      "move": "g6h7",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-00IPp": {
+    "depth": 1,
+    "proof": {
+      "move": "e3f3",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-00IUW": {
+    "depth": 2,
+    "proof": {
+      "move": "h3g3",
+      "replies": {
+        "f2g2": {
+          "move": "g3g2",
+          "replies": {}
+        },
+        "h2g3": {
+          "move": "h5h1",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 6
+  },
+  "lichess-00Ivf": {
+    "depth": 3,
+    "proof": {
+      "move": "h3h2",
+      "replies": {
+        "g2g1": {
+          "move": "h2h1",
+          "replies": {
+            "g1f2": {
+              "move": "h7h2",
+              "replies": {}
+            },
+            "g1g2": {
+              "move": "h7h2",
+              "replies": {}
+            }
+          }
+        },
+        "g2f1": {
+          "move": "h2h1",
+          "replies": {
+            "f1f2": {
+              "move": "h7h2",
+              "replies": {}
+            },
+            "f1g2": {
+              "move": "h7h2",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 56
+  },
+  "lichess-00J1t": {
+    "depth": 3,
+    "proof": {
+      "move": "d2g5",
+      "replies": {
+        "a8b8": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "c8d7": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "c8c7": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "c8b8": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "d8e8": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "d8f8": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "d8g8": {
+          "move": "g5h5",
+          "replies": {
+            "g7h6": {
+              "move": "h5h6",
+              "replies": {}
+            }
+          }
+        },
+        "d8d7": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "d8d6": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "d8d5": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "d8d4": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "h8h7": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "h8g8": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "a7a6": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "a7a5": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "f7f6": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "f7f5": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "g7f8": {
+          "move": "g5g8",
+          "replies": {}
+        },
+        "g7h6": {
+          "move": "g5h6",
+          "replies": {}
+        },
+        "g7f6": {
+          "move": "g5h5",
+          "replies": {}
+        },
+        "g7e5": {
+          "move": "g5h5",
+          "replies": {}
+        },
+        "g7d4": {
+          "move": "g5h5",
+          "replies": {}
+        },
+        "b6d7": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "b6d5": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "b6c4": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "b6a4": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "c6c5": {
+          "move": "g5g7",
+          "replies": {}
+        },
+        "e6e5": {
+          "move": "g5g7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 1281
+  },
+  "lichess-00JR7": {
+    "depth": 3,
+    "proof": {
+      "move": "d3h7",
+      "replies": {
+        "g8f7": {
+          "move": "c2g6",
+          "replies": {
+            "f7f8": {
+              "move": "h7h8",
+              "replies": {}
+            }
+          }
+        },
+        "g8f8": {
+          "move": "h7h8",
+          "replies": {
+            "f8f7": {
+              "move": "c2g6",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 40
+  },
+  "lichess-00JsQ": {
+    "depth": 2,
+    "proof": {
+      "move": "d2d8",
+      "replies": {
+        "e8f7": {
+          "move": "d8f8",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-00Kbj": {
+    "depth": 3,
+    "proof": {
+      "move": "f4g3",
+      "replies": {
+        "a5a6": {
+          "move": "a2a1",
+          "replies": {}
+        },
+        "b5b6": {
+          "move": "a2a1",
+          "replies": {}
+        },
+        "b5b7": {
+          "move": "a2a1",
+          "replies": {}
+        },
+        "b5b8": {
+          "move": "a2a1",
+          "replies": {}
+        },
+        "b5c5": {
+          "move": "a2a1",
+          "replies": {
+            "c5c1": {
+              "move": "a1c1",
+              "replies": {}
+            }
+          }
+        },
+        "b5d5": {
+          "move": "a2a1",
+          "replies": {
+            "d5d1": {
+              "move": "a1d1",
+              "replies": {}
+            }
+          }
+        },
+        "b5e5": {
+          "move": "a2a1",
+          "replies": {
+            "e5e1": {
+              "move": "a1e1",
+              "replies": {}
+            }
+          }
+        },
+        "b5f5": {
+          "move": "a2a1",
+          "replies": {
+            "f5f1": {
+              "move": "a1f1",
+              "replies": {}
+            }
+          }
+        },
+        "h4h5": {
+          "move": "a2a1",
+          "replies": {}
+        },
+        "h1g1": {
+          "move": "a2a1",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 279
+  },
+  "lichess-00Kyy": {
+    "depth": 3,
+    "proof": {
+      "move": "g3h3",
+      "replies": {
+        "h1g1": {
+          "move": "f2g2",
+          "replies": {
+            "g1f1": {
+              "move": "h3h1",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 76
+  },
+  "lichess-00NEO": {
+    "depth": 2,
+    "proof": {
+      "move": "h3h6",
+      "replies": {
+        "h7g8": {
+          "move": "b7g7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 6
+  },
+  "lichess-00NHK": {
+    "depth": 3,
+    "proof": {
+      "move": "h1h8",
+      "replies": {
+        "g8h8": {
+          "move": "d1h5",
+          "replies": {
+            "h8g8": {
+              "move": "h5h7",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 55
+  },
+  "lichess-00O9a": {
+    "depth": 3,
+    "proof": {
+      "move": "a7f2",
+      "replies": {
+        "g1h1": {
+          "move": "f2f1",
+          "replies": {
+            "a1f1": {
+              "move": "f8f1",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 43
+  },
+  "lichess-00Pr6": {
+    "depth": 3,
+    "proof": {
+      "move": "f3f7",
+      "replies": {
+        "f8f7": {
+          "move": "e1e8",
+          "replies": {
+            "f7f8": {
+              "move": "e8f8",
+              "replies": {}
+            }
+          }
+        },
+        "g8h8": {
+          "move": "f7f8",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 42
+  },
+  "lichess-00QHM": {
+    "depth": 3,
+    "proof": {
+      "move": "c1c8",
+      "replies": {
+        "f7f8": {
+          "move": "c8f8",
+          "replies": {}
+        },
+        "f6d8": {
+          "move": "c8d8",
+          "replies": {
+            "f7f8": {
+              "move": "d8f8",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 34
+  },
+  "lichess-00QW1": {
+    "depth": 3,
+    "proof": {
+      "move": "d2d1",
+      "replies": {
+        "c1b2": {
+          "move": "d7d2",
+          "replies": {
+            "b2a3": {
+              "move": "d1a1",
+              "replies": {}
+            }
+          }
+        },
+        "c1c2": {
+          "move": "d7d2",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 56
+  },
+  "lichess-00Se9": {
+    "depth": 2,
+    "proof": {
+      "move": "g6e7",
+      "replies": {
+        "g8g7": {
+          "move": "d5g5",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 4
+  },
+  "lichess-00Ycz": {
+    "depth": 3,
+    "proof": {
+      "move": "c2f2",
+      "replies": {
+        "g1h1": {
+          "move": "f2f1",
+          "replies": {
+            "e1f1": {
+              "move": "f7f1",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 50
+  },
+  "lichess-00ZEc": {
+    "depth": 2,
+    "proof": {
+      "move": "g6g7",
+      "replies": {
+        "h7h8": {
+          "move": "d3h7",
+          "replies": {}
+        },
+        "h7h6": {
+          "move": "d3h7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 10
+  },
+  "lichess-00d5g": {
+    "depth": 3,
+    "proof": {
+      "move": "f1h1",
+      "replies": {
+        "c8h3": {
+          "move": "h1h3",
+          "replies": {
+            "e5h5": {
+              "move": "h3h5",
+              "replies": {}
+            }
+          }
+        },
+        "e5h5": {
+          "move": "h1h5",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 28
+  },
+  "lichess-00dt1": {
+    "depth": 3,
+    "proof": {
+      "move": "d4b5",
+      "replies": {
+        "a3a2": {
+          "move": "b5c3",
+          "replies": {
+            "a2a3": {
+              "move": "b4b3",
+              "replies": {}
+            },
+            "a2a1": {
+              "move": "b4b1",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 76
+  },
+  "lichess-00fxc": {
+    "depth": 3,
+    "proof": {
+      "move": "e8e3",
+      "replies": {
+        "f3g4": {
+          "move": "d3e5",
+          "replies": {
+            "g4h5": {
+              "move": "e2h2",
+              "replies": {}
+            },
+            "g4h4": {
+              "move": "e2h2",
+              "replies": {}
+            },
+            "g4f4": {
+              "move": "e3f3",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 176
+  },
+  "lichess-00gH0": {
+    "depth": 3,
+    "proof": {
+      "move": "f5f7",
+      "replies": {
+        "g8h8": {
+          "move": "f7f8",
+          "replies": {
+            "d8f8": {
+              "move": "f2f8",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 187
+  },
+  "lichess-00gNl": {
+    "depth": 3,
+    "proof": {
+      "move": "f7f8",
+      "replies": {
+        "g8h7": {
+          "move": "f1f7",
+          "replies": {
+            "h7h6": {
+              "move": "f8h8",
+              "replies": {}
+            }
+          }
+        },
+        "g8g7": {
+          "move": "f1f7",
+          "replies": {
+            "g7h6": {
+              "move": "f8h8",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 44
+  },
+  "lichess-00hgt": {
+    "depth": 3,
+    "proof": {
+      "move": "e2e8",
+      "replies": {
+        "a8e8": {
+          "move": "e1e8",
+          "replies": {
+            "h8h7": {
+              "move": "c4g8",
+              "replies": {}
+            }
+          }
+        },
+        "h8h7": {
+          "move": "c4g8",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 175
+  },
+  "lichess-00mRr": {
+    "depth": 2,
+    "proof": {
+      "move": "c7e7",
+      "replies": {
+        "e6f5": {
+          "move": "d5e3",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 6
+  },
+  "lichess-00nsa": {
+    "depth": 3,
+    "proof": {
+      "move": "e4g4",
+      "replies": {
+        "g5h6": {
+          "move": "g4h4",
+          "replies": {
+            "h6g5": {
+              "move": "h4h5",
+              "replies": {}
+            },
+            "g3h4": {
+              "move": "e5f4",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 36
+  },
+  "lichess-00rHa": {
+    "depth": 3,
+    "proof": {
+      "move": "a4c2",
+      "replies": {
+        "d4c2": {
+          "move": "a3b3",
+          "replies": {
+            "b1c1": {
+              "move": "b3c2",
+              "replies": {}
+            },
+            "b1a1": {
+              "move": "b4c2",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 210
+  },
+  "lichess-00rqm": {
+    "depth": 2,
+    "proof": {
+      "move": "g3g8",
+      "replies": {
+        "f8g8": {
+          "move": "e5f7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 6
+  },
+  "lichess-00rw0": {
+    "depth": 3,
+    "proof": {
+      "move": "g4d4",
+      "replies": {
+        "d8f6": {
+          "move": "d4f6",
+          "replies": {}
+        },
+        "c6e5": {
+          "move": "d4e5",
+          "replies": {
+            "d8f6": {
+              "move": "e5f6",
+              "replies": {}
+            }
+          }
+        },
+        "c6d4": {
+          "move": "g3e5",
+          "replies": {
+            "d8f6": {
+              "move": "e5f6",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 17
+  },
+  "lichess-00vuv": {
+    "depth": 3,
+    "proof": {
+      "move": "g6f8",
+      "replies": {
+        "h7g8": {
+          "move": "f5h7",
+          "replies": {
+            "g8f8": {
+              "move": "h7h8",
+              "replies": {}
+            }
+          }
+        },
+        "h7h8": {
+          "move": "f5h7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 181
+  },
+  "lichess-00yzf": {
+    "depth": 2,
+    "proof": {
+      "move": "d7f6",
+      "replies": {
+        "e8f8": {
+          "move": "g7f7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 3
+  },
+  "lichess-00zqB": {
+    "depth": 1,
+    "proof": {
+      "move": "h2h7",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-010WS": {
+    "depth": 3,
+    "proof": {
+      "move": "f4e2",
+      "replies": {
+        "g1h1": {
+          "move": "d4d1",
+          "replies": {
+            "f2f1": {
+              "move": "d1f1",
+              "replies": {}
+            }
+          }
+        },
+        "g1f1": {
+          "move": "d4d1",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 79
+  },
+  "lichess-011GG": {
+    "depth": 3,
+    "proof": {
+      "move": "d2c2",
+      "replies": {
+        "c1b1": {
+          "move": "c2b2",
+          "replies": {
+            "b1c1": {
+              "move": "b2b1",
+              "replies": {}
+            },
+            "b1a1": {
+              "move": "b2d2",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 102
+  },
+  "lichess-012LI": {
+    "depth": 2,
+    "proof": {
+      "move": "d4a4",
+      "replies": {
+        "b3a4": {
+          "move": "b5b4",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 4
+  },
+  "lichess-016rF": {
+    "depth": 3,
+    "proof": {
+      "move": "d3h7",
+      "replies": {
+        "g8f8": {
+          "move": "h7h8",
+          "replies": {
+            "f8e7": {
+              "move": "c3d5",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 178
+  },
+  "lichess-019gx": {
+    "depth": 3,
+    "proof": {
+      "move": "c4a4",
+      "replies": {
+        "a5a4": {
+          "move": "b8a8",
+          "replies": {
+            "g7a7": {
+              "move": "a8a7",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 82
+  },
+  "lichess-01B5q": {
+    "depth": 3,
+    "proof": {
+      "move": "f6g7",
+      "replies": {
+        "g8g7": {
+          "move": "d4f5",
+          "replies": {
+            "g7g8": {
+              "move": "f5h6",
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "nodes": 271
+  },
+  "lichess-01HAa": {
+    "depth": 2,
+    "proof": {
+      "move": "h4g4",
+      "replies": {
+        "d7e7": {
+          "move": "g4g7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 5
+  },
+  "lichess-01a5v": {
+    "depth": 1,
+    "proof": {
+      "move": "g2h2",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-01faz": {
+    "depth": 2,
+    "proof": {
+      "move": "h5h6",
+      "replies": {
+        "g7h6": {
+          "move": "d7h7",
+          "replies": {}
+        }
+      }
+    },
+    "nodes": 4
+  },
+  "lichess-020Gj": {
+    "depth": 1,
+    "proof": {
+      "move": "b6f2",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-04cDV": {
+    "depth": 1,
+    "proof": {
+      "move": "g3d6",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-04hNd": {
+    "depth": 1,
+    "proof": {
+      "move": "g5h5",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-05V7Z": {
+    "depth": 1,
+    "proof": {
+      "move": "h2g1",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-07mts": {
+    "depth": 1,
+    "proof": {
+      "move": "g4h2",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-089y1": {
+    "depth": 1,
+    "proof": {
+      "move": "e4d3",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-09CMV": {
+    "depth": 1,
+    "proof": {
+      "move": "g7a7",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-09kAc": {
+    "depth": 1,
+    "proof": {
+      "move": "e2g4",
+      "replies": {}
+    },
+    "nodes": 1
+  },
+  "lichess-09nQI": {
+    "depth": 1,
+    "proof": {
+      "move": "f3g2",
+      "replies": {}
+    },
+    "nodes": 1
+  }
+}

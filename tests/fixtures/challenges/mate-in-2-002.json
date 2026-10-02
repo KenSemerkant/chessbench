@@ -1,0 +1,10 @@
+{
+  "id": "mate-in-2-002",
+  "title": "King and Queen Corridor",
+  "description": "White to move and force checkmate in 2. The queen covers the corridor from afar.",
+  "fen": "k7/8/2K5/8/8/8/4Q3/8 w - - 0 1",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "medium",
+  "tags": ["king-queen", "corner-mate", "technique"]
+}

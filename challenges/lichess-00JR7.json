@@ -1,0 +1,29 @@
+{
+  "id": "lichess-00JR7",
+  "title": "Kingside Attack · 00JR7",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 1327.",
+  "fen": "r5k1/pp2q1p1/2p1p2p/3nP1pP/3P2P1/2PQ1r2/PPB5/R5K1 w - - 0 24",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "medium",
+  "tags": [
+    "kingsideAttack",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00JR7",
+    "url": "https://lichess.org/training/00JR7",
+    "gameUrl": "https://lichess.org/jSoa2xnc/black#46",
+    "rating": 1327,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d3h7",
+    "c2g6",
+    "h7h8"
+  ]
+}

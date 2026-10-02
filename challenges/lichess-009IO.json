@@ -1,0 +1,28 @@
+{
+  "id": "lichess-009IO",
+  "title": "Hook Mate · 009IO",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1162.",
+  "fen": "3r4/4kp1r/p2Np1p1/3bP3/P2n4/8/1P3RPP/5RK1 w - - 5 26",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "hookMate",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "009IO",
+    "url": "https://lichess.org/training/009IO",
+    "gameUrl": "https://lichess.org/LJBrm9Or/black#50",
+    "rating": 1162,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "f2f7",
+    "f1f7"
+  ]
+}

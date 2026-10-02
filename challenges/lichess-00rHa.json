@@ -1,0 +1,31 @@
+{
+  "id": "lichess-00rHa",
+  "title": "Deflection · 00rHa",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 1928.",
+  "fen": "2kr3r/pp2nppp/4p3/1BPpP3/bn1N2Q1/q1N5/2PB1PPP/1K1R3R b - - 5 14",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "hard",
+  "tags": [
+    "deflection",
+    "fork",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00rHa",
+    "url": "https://lichess.org/training/00rHa",
+    "gameUrl": "https://lichess.org/e3RK92Rx#27",
+    "rating": 1928,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "a4c2",
+    "a3b3",
+    "b4c2"
+  ]
+}

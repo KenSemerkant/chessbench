@@ -1,0 +1,25 @@
+{
+  "name": "chessbench",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "bun --hot src/ui/server.ts",
+    "test": "bun test",
+    "check": "tsc --noEmit",
+    "run": "bun run src/cli/run.ts",
+    "bench": "bun run src/cli/bench.ts"
+  },
+  "dependencies": {
+    "@lichess-org/chessground": "^10.1.0",
+    "chess.js": "^1.4.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "bun-types": "^1.4.2",
+    "typescript": "^5.6.2"
+  }
+}

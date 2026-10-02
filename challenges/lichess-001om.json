@@ -1,0 +1,28 @@
+{
+  "id": "lichess-001om",
+  "title": "Morphys Mate · 001om",
+  "description": "Black to move and force mate in 2. Lichess puzzle rating 1018.",
+  "fen": "5r1k/pp4pp/5p2/1BbQp1r1/7K/7P/1PP3P1/3R3R b - - 3 26",
+  "sideToMove": "black",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "morphysMate",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "001om",
+    "url": "https://lichess.org/training/001om",
+    "gameUrl": "https://lichess.org/VWOIWtIh#51",
+    "rating": 1018,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c5f2",
+    "f2g3"
+  ]
+}

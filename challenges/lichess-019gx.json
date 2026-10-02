@@ -1,0 +1,31 @@
+{
+  "id": "lichess-019gx",
+  "title": "Attraction · 019gx",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 2117.",
+  "fen": "1r6/6R1/3p4/KP1Rp3/2r1P3/2k2P2/8/8 b - - 2 45",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "hard",
+  "tags": [
+    "attraction",
+    "endgame",
+    "long",
+    "mate",
+    "mateIn3",
+    "rookEndgame",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "019gx",
+    "url": "https://lichess.org/training/019gx",
+    "gameUrl": "https://lichess.org/pCBDwbPH#89",
+    "rating": 2117,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c4a4",
+    "b8a8",
+    "a8a7"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "lichess-004zI",
+  "title": " Checkmate · 004zI",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 1429.",
+  "fen": "2q3k1/4br2/6pQ/1p1n2p1/7P/1P4P1/1B2PP2/6K1 w - - 0 28",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "004zI",
+    "url": "https://lichess.org/training/004zI",
+    "gameUrl": "https://lichess.org/HE33gdt4/black#54",
+    "rating": 1429,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h6h8"
+  ]
+}

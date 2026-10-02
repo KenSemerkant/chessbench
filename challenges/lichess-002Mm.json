@@ -1,0 +1,28 @@
+{
+  "id": "lichess-002Mm",
+  "title": "Deflection · 002Mm",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 918.",
+  "fen": "rn1qrk2/ppp3pQ/3p1pP1/3Pp3/2P1P3/8/PP3PP1/R1B1K3 w Q - 3 17",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "deflection",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "002Mm",
+    "url": "https://lichess.org/training/002Mm",
+    "gameUrl": "https://lichess.org/wAkPv4uG/black#32",
+    "rating": 918,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h7h8",
+    "h8g7"
+  ]
+}

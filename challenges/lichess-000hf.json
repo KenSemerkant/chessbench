@@ -1,0 +1,27 @@
+{
+  "id": "lichess-000hf",
+  "title": " Checkmate · 000hf",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1473.",
+  "fen": "r1bq3r/pp1nbkp1/2p1p2p/8/2BP4/1PN3P1/P3QP1P/3R1RK1 w - - 0 20",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "medium",
+  "tags": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "000hf",
+    "url": "https://lichess.org/training/000hf",
+    "gameUrl": "https://lichess.org/71ygsFeE/black#38",
+    "rating": 1473,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e2e6",
+    "e6f7"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "lichess-020Gj",
+  "title": "Kingside Attack · 020Gj",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1955.",
+  "fen": "r4r1k/ppp1N1pp/1b1p1p2/8/4B3/2P2q1b/P1QB1P1P/R3R1K1 b - - 1 21",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "020Gj",
+    "url": "https://lichess.org/training/020Gj",
+    "gameUrl": "https://lichess.org/4yncvvbj#41",
+    "rating": 1955,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "b6f2"
+  ]
+}

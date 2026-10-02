@@ -1,0 +1,32 @@
+{
+  "id": "lichess-00BrZ",
+  "title": "Attraction · 00BrZ",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 1380.",
+  "fen": "r6r/pp2kb2/3p1p2/1N1Pp3/3bP3/P2B2P1/1P1Q2PP/7K b - - 7 28",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "medium",
+  "tags": [
+    "attraction",
+    "kingsideAttack",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "pillsburysMate",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00BrZ",
+    "url": "https://lichess.org/training/00BrZ",
+    "gameUrl": "https://lichess.org/ANKrgoJi#55",
+    "rating": 1380,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h8h2",
+    "a8h8",
+    "h8h6"
+  ]
+}

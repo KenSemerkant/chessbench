@@ -1,0 +1,28 @@
+{
+  "id": "lichess-009zR",
+  "title": "Discovered Attack · 009zR",
+  "description": "Black to move and force mate in 2. Lichess puzzle rating 1620.",
+  "fen": "3Q4/p1p2ppp/4k3/8/5P2/4P3/Prqn2PP/3R1RK1 b - - 0 22",
+  "sideToMove": "black",
+  "mateInN": 2,
+  "difficulty": "medium",
+  "tags": [
+    "discoveredAttack",
+    "endgame",
+    "mate",
+    "mateIn2",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "009zR",
+    "url": "https://lichess.org/training/009zR",
+    "gameUrl": "https://lichess.org/SctCD3fJ#43",
+    "rating": 1620,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d2f3",
+    "c2g2"
+  ]
+}

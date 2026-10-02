@@ -1,0 +1,26 @@
+{
+  "id": "lichess-001KR",
+  "title": " Checkmate · 001KR",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 563.",
+  "fen": "6k1/p1p3pp/4N3/1p6/2q1r1n1/2B5/PP4PP/3R1R1K w - - 0 29",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "001KR",
+    "url": "https://lichess.org/training/001KR",
+    "gameUrl": "https://lichess.org/TaT1Zl7z/black#56",
+    "rating": 563,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d1d8"
+  ]
+}

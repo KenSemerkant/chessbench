@@ -1,0 +1,29 @@
+{
+  "id": "lichess-00hgt",
+  "title": "Kingside Attack · 00hgt",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 864.",
+  "fen": "r6k/pp4p1/3p2rp/6q1/2Q2p2/1P3P1b/PBP1R1P1/4R1K1 w - - 0 25",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "easy",
+  "tags": [
+    "kingsideAttack",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00hgt",
+    "url": "https://lichess.org/training/00hgt",
+    "gameUrl": "https://lichess.org/V4t9VxQd/black#48",
+    "rating": 864,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e2e8",
+    "e1e8",
+    "c4g8"
+  ]
+}

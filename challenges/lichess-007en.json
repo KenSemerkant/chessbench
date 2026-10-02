@@ -1,0 +1,30 @@
+{
+  "id": "lichess-007en",
+  "title": "Queenside Attack · 007en",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 1733.",
+  "fen": "rn3rk1/4pp1p/3p2pB/2q4P/3QP1b1/Pp6/1P2B3/1K1R2NR b - - 0 20",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "medium",
+  "tags": [
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "queensideAttack",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "007en",
+    "url": "https://lichess.org/training/007en",
+    "gameUrl": "https://lichess.org/jzE2yKAk#39",
+    "rating": 1733,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c5c2",
+    "a8a3",
+    "c2a2"
+  ]
+}

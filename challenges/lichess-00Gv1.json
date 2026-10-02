@@ -1,0 +1,28 @@
+{
+  "id": "lichess-00Gv1",
+  "title": " Checkmate · 00Gv1",
+  "description": "Black to move and force mate in 3. Lichess puzzle rating 1063.",
+  "fen": "3R4/1pp1r1kp/4r1p1/p1P5/5Q2/P4PPq/1P5P/3R2K1 b - - 3 32",
+  "sideToMove": "black",
+  "mateInN": 3,
+  "difficulty": "easy",
+  "tags": [
+    "endgame",
+    "long",
+    "mate",
+    "mateIn3"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00Gv1",
+    "url": "https://lichess.org/training/00Gv1",
+    "gameUrl": "https://lichess.org/cF0zaKHB#63",
+    "rating": 1063,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "e6e1",
+    "e7e1",
+    "h3f1"
+  ]
+}

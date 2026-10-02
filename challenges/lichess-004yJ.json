@@ -1,0 +1,27 @@
+{
+  "id": "lichess-004yJ",
+  "title": "Kingside Attack · 004yJ",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 658.",
+  "fen": "r4rk1/1bp2ppp/p1q1pn2/2P1N3/8/3B4/P1P1QPPP/R4RK1 b - - 1 16",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "004yJ",
+    "url": "https://lichess.org/training/004yJ",
+    "gameUrl": "https://lichess.org/8N3Hfj05#31",
+    "rating": 658,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c6g2"
+  ]
+}

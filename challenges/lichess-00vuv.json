@@ -1,0 +1,31 @@
+{
+  "id": "lichess-00vuv",
+  "title": "Discovered Check · 00vuv",
+  "description": "White to move and force mate in 3. Lichess puzzle rating 2102.",
+  "fen": "r3r3/2q1b1pk/p3P1Np/5Qp1/8/8/PPpp1P2/2R1R1K1 w - - 0 31",
+  "sideToMove": "white",
+  "mateInN": 3,
+  "difficulty": "hard",
+  "tags": [
+    "discoveredCheck",
+    "doubleCheck",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "sacrifice"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00vuv",
+    "url": "https://lichess.org/training/00vuv",
+    "gameUrl": "https://lichess.org/SJRbBrel/black#60",
+    "rating": 2102,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g6f8",
+    "f5h7",
+    "h7h8"
+  ]
+}

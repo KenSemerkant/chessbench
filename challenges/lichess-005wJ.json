@@ -1,0 +1,27 @@
+{
+  "id": "lichess-005wJ",
+  "title": "Hanging Piece · 005wJ",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 1371.",
+  "fen": "r3kb1r/ppqN1ppp/4pn2/1Q3b2/3P4/8/PP2PPPP/RNB1KB1R b KQkq - 0 9",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "hangingPiece",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "005wJ",
+    "url": "https://lichess.org/training/005wJ",
+    "gameUrl": "https://lichess.org/2mU9GJhQ#17",
+    "rating": 1371,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c7c1"
+  ]
+}

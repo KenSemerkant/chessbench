@@ -1,0 +1,27 @@
+{
+  "id": "lichess-04hNd",
+  "title": "Queen Endgame · 04hNd",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 1977.",
+  "fen": "8/7p/2p5/5pQ1/4p3/3q1kPP/3P1P2/6K1 w - - 3 36",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "hard",
+  "tags": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "queenEndgame"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "04hNd",
+    "url": "https://lichess.org/training/04hNd",
+    "gameUrl": "https://lichess.org/acB1djfT/black#70",
+    "rating": 1977,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "g5h5"
+  ]
+}

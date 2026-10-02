@@ -1,0 +1,31 @@
+{
+  "id": "lichess-00IUW",
+  "title": "Clearance · 00IUW",
+  "description": "Black to move and force mate in 2. Lichess puzzle rating 1783.",
+  "fen": "8/2p1r1kp/5pp1/3P3r/4P3/2N1QbPq/PPP2R1P/5RK1 b - - 4 23",
+  "sideToMove": "black",
+  "mateInN": 2,
+  "difficulty": "medium",
+  "tags": [
+    "clearance",
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "operaMate",
+    "sacrifice",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00IUW",
+    "url": "https://lichess.org/training/00IUW",
+    "gameUrl": "https://lichess.org/83tyhOfz#45",
+    "rating": 1783,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "h3g3",
+    "g3g2"
+  ]
+}

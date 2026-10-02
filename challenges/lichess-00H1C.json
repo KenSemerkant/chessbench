@@ -1,0 +1,27 @@
+{
+  "id": "lichess-00H1C",
+  "title": "Swallowstail Mate · 00H1C",
+  "description": "White to move and force mate in 1. Lichess puzzle rating 1311.",
+  "fen": "r3r3/1kpR1qpp/p1n2p2/Qp2P2P/1N6/4Pb2/PPP3P1/2K2R2 w - - 1 23",
+  "sideToMove": "white",
+  "mateInN": 1,
+  "difficulty": "medium",
+  "tags": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "swallowstailMate"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "00H1C",
+    "url": "https://lichess.org/training/00H1C",
+    "gameUrl": "https://lichess.org/GzcjOw0p/black#44",
+    "rating": 1311,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "a5c7"
+  ]
+}

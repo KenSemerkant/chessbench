@@ -1,0 +1,27 @@
+{
+  "id": "lichess-000rZ",
+  "title": "Kingside Attack · 000rZ",
+  "description": "Black to move and force mate in 1. Lichess puzzle rating 616.",
+  "fen": "2kr1b1r/p1p2pp1/2pqN3/7p/6n1/2NPB3/PPP2PPP/R2Q1RK1 b - - 0 13",
+  "sideToMove": "black",
+  "mateInN": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "000rZ",
+    "url": "https://lichess.org/training/000rZ",
+    "gameUrl": "https://lichess.org/seIMDWkD#25",
+    "rating": 616,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "d6h2"
+  ]
+}

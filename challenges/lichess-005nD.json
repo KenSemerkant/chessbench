@@ -1,0 +1,28 @@
+{
+  "id": "lichess-005nD",
+  "title": "Fork · 005nD",
+  "description": "White to move and force mate in 2. Lichess puzzle rating 1105.",
+  "fen": "3rk2r/2qn2p1/p1Q1p3/3n3p/8/8/PP4PP/5R1K w k - 0 24",
+  "sideToMove": "white",
+  "mateInN": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fork",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+  ],
+  "source": {
+    "provider": "lichess",
+    "puzzleId": "005nD",
+    "url": "https://lichess.org/training/005nD",
+    "gameUrl": "https://lichess.org/hlgaj6lV/black#46",
+    "rating": 1105,
+    "license": "CC0-1.0"
+  },
+  "solution": [
+    "c6e6",
+    "e6f7"
+  ]
+}
