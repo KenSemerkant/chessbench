@@ -88,6 +88,10 @@ export interface PerAgentScore {
   total: number;
   score: number;
   totalSolverMoves: number;
+  /** Solver turns that matched the proven solution prefix (challenges with a solution only). */
+  solutionMoveHits: number;
+  /** Solution turns counted: matching prefix plus the first miss; 0 when no solution data. */
+  solutionMoveTurns: number;
   totalElapsedMs: number;
 }
 

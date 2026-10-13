@@ -17,6 +17,7 @@ export function Results({ report, onReplay }: ResultsProps): JSX.Element {
             <th>Model</th>
             <th>Solved</th>
             <th>Score</th>
+            <th>Solution mv</th>
             <th>Solver moves</th>
             <th>Elapsed (ms)</th>
           </tr>
@@ -30,6 +31,11 @@ export function Results({ report, onReplay }: ResultsProps): JSX.Element {
                 {s.solved}/{s.total}
               </td>
               <td>{s.score.toFixed(2)}</td>
+              <td>
+                {s.solutionMoveTurns > 0
+                  ? `${((s.solutionMoveHits / s.solutionMoveTurns) * 100).toFixed(0)}% (${s.solutionMoveHits}/${s.solutionMoveTurns})`
+                  : "—"}
+              </td>
               <td>{s.totalSolverMoves}</td>
               <td>{s.totalElapsedMs}</td>
             </tr>

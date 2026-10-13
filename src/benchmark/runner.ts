@@ -40,12 +40,15 @@ export async function runSuite(options: SuiteOptions): Promise<SuiteResult> {
     }
   }
   const models = new Map(agents.map((a) => [a.id, a.model] as [string, string]));
+  const solutions = new Map(
+    wanted.filter((c) => c.solution !== undefined).map((c) => [c.id, c.solution!] as [string, string[]]),
+  );
   return {
     suiteId,
     ranAt: new Date().toISOString(),
     challengeIds: wanted.map((c) => c.id),
     agentIds: agents.map((a) => a.id),
     runs,
-    scores: scoreAgents(runs, models),
+    scores: scoreAgents(runs, models, solutions),
   };
 }
